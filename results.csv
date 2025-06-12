@@ -1,0 +1,6 @@
+sensor_id,location,is_safe,reason
+1,Lake A,True,Safe
+2,Lake B,False,pH value too high
+3,Lake C,False,missing pH value
+4,Lake D,False,missing turbidity value
+5,Lake E,False,pH value too low
