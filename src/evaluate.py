@@ -9,20 +9,19 @@ class WaterQualityEvaluator:
         self.ph_range = ph_range
         self.turbidity_threshold = turbidity_threshold
 
-    def is_safe(self, pH, turbidity): 
-        if pd.isna(pH):
-            return (False, "missing pH")
-        if pd.isna(turbidity):
-            return (False, "missing turbidity")
+    def is_safe(self, pH, turbidity):
+        if pd.isna(pH) or pH == 0:
+            return (False, "missing or invalid pH")
+        if pd.isna(turbidity) or turbidity == 0:
+            return (False, "missing or invalid turbidity")
         if pH < self.ph_range[0]:
             return (False, "pH too low")
         if pH > self.ph_range[1]:
             return (False, "pH too high")
         if turbidity > self.turbidity_threshold:
             return (False, "turbidity too high")
-
         return (True, "Safe")
-
+    
 # Evaluates each sensor's data and saves the results to a CSV file
 def evaluate_and_save_results(df, output_path, show_top_n=5):
     evaluator = WaterQualityEvaluator()
@@ -30,7 +29,7 @@ def evaluate_and_save_results(df, output_path, show_top_n=5):
     safe_count = 0
     unsafe_count = 0
 
-    print("\n🔎 Evaluation Summary:\n")
+    print("\nEvaluation Summary:\n")
 
     # Evaluate all sensor readings
     for idx, row in df.iterrows():
@@ -69,7 +68,7 @@ def evaluate_and_save_results(df, output_path, show_top_n=5):
     for entry in results[:show_top_n]:
         print(f"{entry['sensor']} at {entry['location']}: {entry['status']}")
 
-    #Saving only the top N results to CSV (without preview fields)
+    #Saving only the top N results to CSV 
     export_results = [
         {
             "sensor_id": r["sensor_id"],
