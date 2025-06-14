@@ -50,8 +50,8 @@ def evaluate_and_save_results(df, output_path, show_top_n=5):
             unsafe_count += 1
 
         results.append({
-            "sensor": sensor,  # needed just for preview
-            "status": status,  # needed just for preview
+            "sensor": sensor, 
+            "status": status,  
             "sensor_id": sensor_id,
             "location": location,
             "ph": pH,
