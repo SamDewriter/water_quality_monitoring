@@ -1,0 +1,1001 @@
+sensor_id,location,is_safe,reason
+Sensor 001,Lake A,False,"pH too low, turbidity too high"
+Sensor 002,Lake B,False,turbidity too high
+Sensor 003,Lake C,False,turbidity too high
+Sensor 004,Lake D,False,turbidity too high
+Sensor 005,Lake E,False,turbidity too high
+Sensor 006,Lake F,False,turbidity too high
+Sensor 007,Lake G,False,turbidity too high
+Sensor 008,Lake H,False,turbidity too high
+Sensor 009,Lake I,False,turbidity too high
+Sensor 010,Lake J,False,turbidity too high
+Sensor 011,Lake K,False,turbidity too high
+Sensor 012,Lake L,False,turbidity too high
+Sensor 013,Lake M,False,turbidity too high
+Sensor 014,Lake N,False,turbidity too high
+Sensor 015,Lake O,False,turbidity too high
+Sensor 016,Lake P,False,turbidity too high
+Sensor 017,Lake Q,False,turbidity too high
+Sensor 018,Lake R,False,turbidity too high
+Sensor 019,Lake S,False,turbidity too high
+Sensor 020,Lake T,False,turbidity too high
+Sensor 021,Lake U,False,turbidity too high
+Sensor 022,Lake V,False,turbidity too high
+Sensor 023,Lake W,False,turbidity too high
+Sensor 024,Lake X,False,turbidity too high
+Sensor 025,Lake Y,False,turbidity too high
+Sensor 026,Lake Z,False,turbidity too high
+Sensor 027,Lake A,False,turbidity too high
+Sensor 028,Lake B,False,turbidity too high
+Sensor 029,Lake C,False,turbidity too high
+Sensor 030,Lake D,False,turbidity too high
+Sensor 031,Lake E,False,turbidity too high
+Sensor 032,Lake F,False,"pH too low, turbidity too high"
+Sensor 033,Lake G,False,turbidity too high
+Sensor 034,Lake H,False,turbidity too high
+Sensor 035,Lake I,False,"pH too low, turbidity too high"
+Sensor 036,Lake J,False,turbidity too high
+Sensor 037,Lake K,False,turbidity too high
+Sensor 038,Lake L,False,turbidity too high
+Sensor 039,Lake M,False,turbidity too high
+Sensor 040,Lake N,False,turbidity too high
+Sensor 041,Lake O,False,turbidity too high
+Sensor 042,Lake P,False,turbidity too high
+Sensor 043,Lake Q,False,turbidity too high
+Sensor 044,Lake R,False,turbidity too high
+Sensor 045,Lake S,False,turbidity too high
+Sensor 046,Lake T,False,"pH too low, turbidity too high"
+Sensor 047,Lake U,True,Safe
+Sensor 048,Lake V,True,Safe
+Sensor 049,Lake W,False,"pH too low, turbidity too high"
+Sensor 050,Lake X,False,turbidity too high
+Sensor 051,Lake Y,False,turbidity too high
+Sensor 052,Lake Z,False,turbidity too high
+Sensor 053,Lake A,False,turbidity too high
+Sensor 054,Lake B,False,turbidity too high
+Sensor 055,Lake C,False,turbidity too high
+Sensor 056,Lake D,False,"pH too low, turbidity too high"
+Sensor 057,Lake E,False,"pH too low, turbidity too high"
+Sensor 058,Lake F,False,turbidity too high
+Sensor 059,Lake G,False,turbidity too high
+Sensor 060,Lake H,False,turbidity too high
+Sensor 061,Lake I,False,"pH too low, turbidity too high"
+Sensor 062,Lake J,False,turbidity too high
+Sensor 063,Lake K,False,turbidity too high
+Sensor 064,Lake L,False,turbidity too high
+Sensor 065,Lake M,False,turbidity too high
+Sensor 066,Lake N,False,"pH too low, turbidity too high"
+Sensor 067,Lake O,False,turbidity too high
+Sensor 068,Lake P,False,turbidity too high
+Sensor 069,Lake Q,False,turbidity too high
+Sensor 070,Lake R,False,"pH too low, turbidity too high"
+Sensor 071,Lake S,False,turbidity too high
+Sensor 072,Lake T,False,turbidity too high
+Sensor 073,Lake U,False,turbidity too high
+Sensor 074,Lake V,False,turbidity too high
+Sensor 075,Lake W,False,turbidity too high
+Sensor 076,Lake X,False,"pH too low, turbidity too high"
+Sensor 077,Lake Y,False,turbidity too high
+Sensor 078,Lake Z,False,turbidity too high
+Sensor 079,Lake A,False,turbidity too high
+Sensor 080,Lake B,False,"pH too low, turbidity too high"
+Sensor 081,Lake C,False,"pH too low, turbidity too high"
+Sensor 082,Lake D,False,turbidity too high
+Sensor 083,Lake E,False,turbidity too high
+Sensor 084,Lake F,False,turbidity too high
+Sensor 085,Lake G,False,"pH too low, turbidity too high"
+Sensor 086,Lake H,False,turbidity too high
+Sensor 087,Lake I,False,turbidity too high
+Sensor 088,Lake J,False,turbidity too high
+Sensor 089,Lake K,False,turbidity too high
+Sensor 090,Lake L,False,turbidity too high
+Sensor 091,Lake M,False,turbidity too high
+Sensor 092,Lake N,False,"pH too low, turbidity too high"
+Sensor 093,Lake O,True,Safe
+Sensor 094,Lake P,False,turbidity too high
+Sensor 095,Lake Q,False,turbidity too high
+Sensor 096,Lake R,False,turbidity too high
+Sensor 097,Lake S,False,turbidity too high
+Sensor 098,Lake T,False,turbidity too high
+Sensor 099,Lake U,False,turbidity too high
+Sensor 100,Lake V,False,turbidity too high
+Sensor 101,Lake W,False,turbidity too high
+Sensor 102,Lake X,False,turbidity too high
+Sensor 103,Lake Y,False,turbidity too high
+Sensor 104,Lake Z,False,"pH too low, turbidity too high"
+Sensor 105,Lake A,False,turbidity too high
+Sensor 106,Lake B,False,"pH too low, turbidity too high"
+Sensor 107,Lake C,False,turbidity too high
+Sensor 108,Lake D,False,turbidity too high
+Sensor 109,Lake E,False,"pH too low, turbidity too high"
+Sensor 110,Lake F,False,turbidity too high
+Sensor 111,Lake G,False,turbidity too high
+Sensor 112,Lake H,False,turbidity too high
+Sensor 113,Lake I,False,"pH too low, turbidity too high"
+Sensor 114,Lake J,False,turbidity too high
+Sensor 115,Lake K,True,Safe
+Sensor 116,Lake L,False,turbidity too high
+Sensor 117,Lake M,False,turbidity too high
+Sensor 118,Lake N,False,turbidity too high
+Sensor 119,Lake O,False,turbidity too high
+Sensor 120,Lake P,False,turbidity too high
+Sensor 121,Lake Q,False,turbidity too high
+Sensor 122,Lake R,False,"pH too low, turbidity too high"
+Sensor 123,Lake S,False,"pH too low, turbidity too high"
+Sensor 124,Lake T,False,turbidity too high
+Sensor 125,Lake U,False,"pH too low, turbidity too high"
+Sensor 126,Lake V,False,turbidity too high
+Sensor 127,Lake W,False,turbidity too high
+Sensor 128,Lake X,False,turbidity too high
+Sensor 129,Lake Y,False,turbidity too high
+Sensor 130,Lake Z,False,turbidity too high
+Sensor 131,Lake A,False,"pH too low, turbidity too high"
+Sensor 132,Lake B,False,turbidity too high
+Sensor 133,Lake C,False,turbidity too high
+Sensor 134,Lake D,False,turbidity too high
+Sensor 135,Lake E,False,turbidity too high
+Sensor 136,Lake F,False,turbidity too high
+Sensor 137,Lake G,False,turbidity too high
+Sensor 138,Lake H,False,turbidity too high
+Sensor 139,Lake I,False,turbidity too high
+Sensor 140,Lake J,False,turbidity too high
+Sensor 141,Lake K,False,turbidity too high
+Sensor 142,Lake L,False,turbidity too high
+Sensor 143,Lake M,False,turbidity too high
+Sensor 144,Lake N,False,turbidity too high
+Sensor 145,Lake O,False,turbidity too high
+Sensor 146,Lake P,False,turbidity too high
+Sensor 147,Lake Q,False,turbidity too high
+Sensor 148,Lake R,False,turbidity too high
+Sensor 149,Lake S,False,turbidity too high
+Sensor 150,Lake T,False,"pH too low, turbidity too high"
+Sensor 151,Lake U,False,turbidity too high
+Sensor 152,Lake V,False,turbidity too high
+Sensor 153,Lake W,False,turbidity too high
+Sensor 154,Lake X,False,turbidity too high
+Sensor 155,Lake Y,False,turbidity too high
+Sensor 156,Lake Z,False,turbidity too high
+Sensor 157,Lake A,False,turbidity too high
+Sensor 158,Lake B,False,turbidity too high
+Sensor 159,Lake C,False,turbidity too high
+Sensor 160,Lake D,False,turbidity too high
+Sensor 161,Lake E,False,turbidity too high
+Sensor 162,Lake F,False,turbidity too high
+Sensor 163,Lake G,False,turbidity too high
+Sensor 164,Lake H,False,turbidity too high
+Sensor 165,Lake I,False,turbidity too high
+Sensor 166,Lake J,False,turbidity too high
+Sensor 167,Lake K,False,"pH too low, turbidity too high"
+Sensor 168,Lake L,False,turbidity too high
+Sensor 169,Lake M,False,turbidity too high
+Sensor 170,Lake N,False,turbidity too high
+Sensor 171,Lake O,False,turbidity too high
+Sensor 172,Lake P,False,turbidity too high
+Sensor 173,Lake Q,False,turbidity too high
+Sensor 174,Lake R,False,turbidity too high
+Sensor 175,Lake S,False,"pH too low, turbidity too high"
+Sensor 176,Lake T,False,turbidity too high
+Sensor 177,Lake U,False,turbidity too high
+Sensor 178,Lake V,False,turbidity too high
+Sensor 179,Lake W,False,turbidity too high
+Sensor 180,Lake X,False,turbidity too high
+Sensor 181,Lake Y,False,"pH too low, turbidity too high"
+Sensor 182,Lake Z,False,turbidity too high
+Sensor 183,Lake A,False,turbidity too high
+Sensor 184,Lake B,False,turbidity too high
+Sensor 185,Lake C,False,turbidity too high
+Sensor 186,Lake D,False,turbidity too high
+Sensor 187,Lake E,False,turbidity too high
+Sensor 188,Lake F,False,"pH too low, turbidity too high"
+Sensor 189,Lake G,False,turbidity too high
+Sensor 190,Lake H,False,turbidity too high
+Sensor 191,Lake I,False,turbidity too high
+Sensor 192,Lake J,False,turbidity too high
+Sensor 193,Lake K,False,turbidity too high
+Sensor 194,Lake L,False,"pH too low, turbidity too high"
+Sensor 195,Lake M,False,turbidity too high
+Sensor 196,Lake N,False,turbidity too high
+Sensor 197,Lake O,False,turbidity too high
+Sensor 198,Lake P,False,"pH too low, turbidity too high"
+Sensor 199,Lake Q,False,"pH too low, turbidity too high"
+Sensor 200,Lake R,False,turbidity too high
+Sensor 201,Lake S,False,"pH too low, turbidity too high"
+Sensor 202,Lake T,False,turbidity too high
+Sensor 203,Lake U,False,"pH too low, turbidity too high"
+Sensor 204,Lake V,False,turbidity too high
+Sensor 205,Lake W,False,turbidity too high
+Sensor 206,Lake X,False,turbidity too high
+Sensor 207,Lake Y,False,turbidity too high
+Sensor 208,Lake Z,False,turbidity too high
+Sensor 209,Lake A,False,turbidity too high
+Sensor 210,Lake B,False,"pH too low, turbidity too high"
+Sensor 211,Lake C,False,turbidity too high
+Sensor 212,Lake D,False,turbidity too high
+Sensor 213,Lake E,False,"pH too low, turbidity too high"
+Sensor 214,Lake F,False,turbidity too high
+Sensor 215,Lake G,False,turbidity too high
+Sensor 216,Lake H,False,turbidity too high
+Sensor 217,Lake I,False,turbidity too high
+Sensor 218,Lake J,False,turbidity too high
+Sensor 219,Lake K,False,turbidity too high
+Sensor 220,Lake L,False,turbidity too high
+Sensor 221,Lake M,False,turbidity too high
+Sensor 222,Lake N,False,"pH too low, turbidity too high"
+Sensor 223,Lake O,False,turbidity too high
+Sensor 224,Lake P,False,turbidity too high
+Sensor 225,Lake Q,False,turbidity too high
+Sensor 226,Lake R,False,"pH too low, turbidity too high"
+Sensor 227,Lake S,False,turbidity too high
+Sensor 228,Lake T,False,turbidity too high
+Sensor 229,Lake U,False,turbidity too high
+Sensor 230,Lake V,False,turbidity too high
+Sensor 231,Lake W,False,turbidity too high
+Sensor 232,Lake X,False,turbidity too high
+Sensor 233,Lake Y,False,turbidity too high
+Sensor 234,Lake Z,False,"pH too low, turbidity too high"
+Sensor 235,Lake A,False,turbidity too high
+Sensor 236,Lake B,False,"pH too low, turbidity too high"
+Sensor 237,Lake C,False,turbidity too high
+Sensor 238,Lake D,False,turbidity too high
+Sensor 239,Lake E,False,turbidity too high
+Sensor 240,Lake F,False,turbidity too high
+Sensor 241,Lake G,True,Safe
+Sensor 242,Lake H,False,turbidity too high
+Sensor 243,Lake I,False,turbidity too high
+Sensor 244,Lake J,False,"pH too low, turbidity too high"
+Sensor 245,Lake K,False,turbidity too high
+Sensor 246,Lake L,False,turbidity too high
+Sensor 247,Lake M,False,turbidity too high
+Sensor 248,Lake N,False,turbidity too high
+Sensor 249,Lake O,False,turbidity too high
+Sensor 250,Lake P,False,turbidity too high
+Sensor 251,Lake Q,False,turbidity too high
+Sensor 252,Lake R,False,turbidity too high
+Sensor 253,Lake S,False,turbidity too high
+Sensor 254,Lake T,False,turbidity too high
+Sensor 255,Lake U,False,"pH too low, turbidity too high"
+Sensor 256,Lake V,False,turbidity too high
+Sensor 257,Lake W,False,turbidity too high
+Sensor 258,Lake X,False,turbidity too high
+Sensor 259,Lake Y,False,turbidity too high
+Sensor 260,Lake Z,False,turbidity too high
+Sensor 261,Lake A,False,turbidity too high
+Sensor 262,Lake B,False,turbidity too high
+Sensor 263,Lake C,False,turbidity too high
+Sensor 264,Lake D,False,turbidity too high
+Sensor 265,Lake E,False,turbidity too high
+Sensor 266,Lake F,False,turbidity too high
+Sensor 267,Lake G,False,turbidity too high
+Sensor 268,Lake H,False,turbidity too high
+Sensor 269,Lake I,False,turbidity too high
+Sensor 270,Lake J,False,turbidity too high
+Sensor 271,Lake K,False,turbidity too high
+Sensor 272,Lake L,False,"pH too low, turbidity too high"
+Sensor 273,Lake M,False,turbidity too high
+Sensor 274,Lake N,False,turbidity too high
+Sensor 275,Lake O,False,turbidity too high
+Sensor 276,Lake P,False,turbidity too high
+Sensor 277,Lake Q,False,turbidity too high
+Sensor 278,Lake R,False,turbidity too high
+Sensor 279,Lake S,False,turbidity too high
+Sensor 280,Lake T,False,turbidity too high
+Sensor 281,Lake U,False,turbidity too high
+Sensor 282,Lake V,False,turbidity too high
+Sensor 283,Lake W,False,turbidity too high
+Sensor 284,Lake X,False,turbidity too high
+Sensor 285,Lake Y,False,turbidity too high
+Sensor 286,Lake Z,False,turbidity too high
+Sensor 287,Lake A,True,Safe
+Sensor 288,Lake B,False,turbidity too high
+Sensor 289,Lake C,False,turbidity too high
+Sensor 290,Lake D,False,turbidity too high
+Sensor 291,Lake E,False,turbidity too high
+Sensor 292,Lake F,False,turbidity too high
+Sensor 293,Lake G,False,turbidity too high
+Sensor 294,Lake H,False,turbidity too high
+Sensor 295,Lake I,False,turbidity too high
+Sensor 296,Lake J,False,turbidity too high
+Sensor 297,Lake K,False,turbidity too high
+Sensor 298,Lake L,False,"pH too low, turbidity too high"
+Sensor 299,Lake M,False,turbidity too high
+Sensor 300,Lake N,False,"pH too low, turbidity too high"
+Sensor 301,Lake O,False,turbidity too high
+Sensor 302,Lake P,False,turbidity too high
+Sensor 303,Lake Q,False,turbidity too high
+Sensor 304,Lake R,False,"pH too low, turbidity too high"
+Sensor 305,Lake S,False,turbidity too high
+Sensor 306,Lake T,False,turbidity too high
+Sensor 307,Lake U,False,turbidity too high
+Sensor 308,Lake V,False,turbidity too high
+Sensor 309,Lake W,False,"pH too low, turbidity too high"
+Sensor 310,Lake X,False,turbidity too high
+Sensor 311,Lake Y,False,turbidity too high
+Sensor 312,Lake Z,False,turbidity too high
+Sensor 313,Lake A,False,turbidity too high
+Sensor 314,Lake B,False,turbidity too high
+Sensor 315,Lake C,False,turbidity too high
+Sensor 316,Lake D,False,turbidity too high
+Sensor 317,Lake E,False,turbidity too high
+Sensor 318,Lake F,False,"pH too low, turbidity too high"
+Sensor 319,Lake G,False,turbidity too high
+Sensor 320,Lake H,False,turbidity too high
+Sensor 321,Lake I,False,turbidity too high
+Sensor 322,Lake J,False,"pH too low, turbidity too high"
+Sensor 323,Lake K,False,turbidity too high
+Sensor 324,Lake L,False,turbidity too high
+Sensor 325,Lake M,False,turbidity too high
+Sensor 326,Lake N,False,"pH too low, turbidity too high"
+Sensor 327,Lake O,False,turbidity too high
+Sensor 328,Lake P,False,"pH too low, turbidity too high"
+Sensor 329,Lake Q,False,turbidity too high
+Sensor 330,Lake R,False,"pH too low, turbidity too high"
+Sensor 331,Lake S,False,turbidity too high
+Sensor 332,Lake T,False,"pH too low, turbidity too high"
+Sensor 333,Lake U,False,turbidity too high
+Sensor 334,Lake V,False,"pH too low, turbidity too high"
+Sensor 335,Lake W,False,turbidity too high
+Sensor 336,Lake X,False,turbidity too high
+Sensor 337,Lake Y,False,turbidity too high
+Sensor 338,Lake Z,False,turbidity too high
+Sensor 339,Lake A,False,turbidity too high
+Sensor 340,Lake B,False,turbidity too high
+Sensor 341,Lake C,False,turbidity too high
+Sensor 342,Lake D,False,turbidity too high
+Sensor 343,Lake E,False,turbidity too high
+Sensor 344,Lake F,False,turbidity too high
+Sensor 345,Lake G,False,turbidity too high
+Sensor 346,Lake H,False,"pH too low, turbidity too high"
+Sensor 347,Lake I,False,turbidity too high
+Sensor 348,Lake J,False,turbidity too high
+Sensor 349,Lake K,False,turbidity too high
+Sensor 350,Lake L,False,turbidity too high
+Sensor 351,Lake M,False,turbidity too high
+Sensor 352,Lake N,False,turbidity too high
+Sensor 353,Lake O,False,turbidity too high
+Sensor 354,Lake P,False,turbidity too high
+Sensor 355,Lake Q,False,turbidity too high
+Sensor 356,Lake R,False,"pH too low, turbidity too high"
+Sensor 357,Lake S,False,"pH too low, turbidity too high"
+Sensor 358,Lake T,False,turbidity too high
+Sensor 359,Lake U,False,turbidity too high
+Sensor 360,Lake V,False,turbidity too high
+Sensor 361,Lake W,False,"pH too low, turbidity too high"
+Sensor 362,Lake X,False,turbidity too high
+Sensor 363,Lake Y,False,turbidity too high
+Sensor 364,Lake Z,False,turbidity too high
+Sensor 365,Lake A,False,"pH too low, turbidity too high"
+Sensor 366,Lake B,False,turbidity too high
+Sensor 367,Lake C,False,"pH too low, turbidity too high"
+Sensor 368,Lake D,False,turbidity too high
+Sensor 369,Lake E,False,turbidity too high
+Sensor 370,Lake F,False,turbidity too high
+Sensor 371,Lake G,False,turbidity too high
+Sensor 372,Lake H,False,turbidity too high
+Sensor 373,Lake I,False,turbidity too high
+Sensor 374,Lake J,False,turbidity too high
+Sensor 375,Lake K,False,"pH too low, turbidity too high"
+Sensor 376,Lake L,False,turbidity too high
+Sensor 377,Lake M,False,"pH too low, turbidity too high"
+Sensor 378,Lake N,False,"pH too low, turbidity too high"
+Sensor 379,Lake O,False,"pH too low, turbidity too high"
+Sensor 380,Lake P,False,turbidity too high
+Sensor 381,Lake Q,False,turbidity too high
+Sensor 382,Lake R,False,turbidity too high
+Sensor 383,Lake S,False,turbidity too high
+Sensor 384,Lake T,False,turbidity too high
+Sensor 385,Lake U,False,turbidity too high
+Sensor 386,Lake V,False,turbidity too high
+Sensor 387,Lake W,False,turbidity too high
+Sensor 388,Lake X,False,turbidity too high
+Sensor 389,Lake Y,False,turbidity too high
+Sensor 390,Lake Z,False,turbidity too high
+Sensor 391,Lake A,False,turbidity too high
+Sensor 392,Lake B,False,turbidity too high
+Sensor 393,Lake C,False,turbidity too high
+Sensor 394,Lake D,False,turbidity too high
+Sensor 395,Lake E,False,turbidity too high
+Sensor 396,Lake F,False,"pH too low, turbidity too high"
+Sensor 397,Lake G,False,"pH too low, turbidity too high"
+Sensor 398,Lake H,False,"pH too low, turbidity too high"
+Sensor 399,Lake I,False,turbidity too high
+Sensor 400,Lake J,False,turbidity too high
+Sensor 401,Lake K,False,turbidity too high
+Sensor 402,Lake L,False,turbidity too high
+Sensor 403,Lake M,False,"pH too low, turbidity too high"
+Sensor 404,Lake N,False,turbidity too high
+Sensor 405,Lake O,False,"pH too low, turbidity too high"
+Sensor 406,Lake P,False,"pH too low, turbidity too high"
+Sensor 407,Lake Q,False,turbidity too high
+Sensor 408,Lake R,False,turbidity too high
+Sensor 409,Lake S,False,turbidity too high
+Sensor 410,Lake T,False,turbidity too high
+Sensor 411,Lake U,False,turbidity too high
+Sensor 412,Lake V,False,turbidity too high
+Sensor 413,Lake W,False,turbidity too high
+Sensor 414,Lake X,False,turbidity too high
+Sensor 415,Lake Y,False,"pH too low, turbidity too high"
+Sensor 416,Lake Z,True,Safe
+Sensor 417,Lake A,False,"pH too low, turbidity too high"
+Sensor 418,Lake B,False,turbidity too high
+Sensor 419,Lake C,False,turbidity too high
+Sensor 420,Lake D,False,turbidity too high
+Sensor 421,Lake E,False,turbidity too high
+Sensor 422,Lake F,True,Safe
+Sensor 423,Lake G,False,turbidity too high
+Sensor 424,Lake H,False,turbidity too high
+Sensor 425,Lake I,False,turbidity too high
+Sensor 426,Lake J,False,pH too low
+Sensor 427,Lake K,False,turbidity too high
+Sensor 428,Lake L,False,turbidity too high
+Sensor 429,Lake M,False,turbidity too high
+Sensor 430,Lake N,False,turbidity too high
+Sensor 431,Lake O,False,turbidity too high
+Sensor 432,Lake P,False,turbidity too high
+Sensor 433,Lake Q,False,turbidity too high
+Sensor 434,Lake R,False,turbidity too high
+Sensor 435,Lake S,False,"pH too low, turbidity too high"
+Sensor 436,Lake T,False,turbidity too high
+Sensor 437,Lake U,False,turbidity too high
+Sensor 438,Lake V,False,turbidity too high
+Sensor 439,Lake W,False,turbidity too high
+Sensor 440,Lake X,False,turbidity too high
+Sensor 441,Lake Y,False,turbidity too high
+Sensor 442,Lake Z,False,turbidity too high
+Sensor 443,Lake A,False,turbidity too high
+Sensor 444,Lake B,True,Safe
+Sensor 445,Lake C,False,turbidity too high
+Sensor 446,Lake D,False,turbidity too high
+Sensor 447,Lake E,False,turbidity too high
+Sensor 448,Lake F,False,turbidity too high
+Sensor 449,Lake G,False,turbidity too high
+Sensor 450,Lake H,False,turbidity too high
+Sensor 451,Lake I,False,turbidity too high
+Sensor 452,Lake J,False,turbidity too high
+Sensor 453,Lake K,False,turbidity too high
+Sensor 454,Lake L,False,turbidity too high
+Sensor 455,Lake M,False,turbidity too high
+Sensor 456,Lake N,False,turbidity too high
+Sensor 457,Lake O,False,turbidity too high
+Sensor 458,Lake P,False,turbidity too high
+Sensor 459,Lake Q,False,turbidity too high
+Sensor 460,Lake R,False,turbidity too high
+Sensor 461,Lake S,False,turbidity too high
+Sensor 462,Lake T,False,turbidity too high
+Sensor 463,Lake U,False,turbidity too high
+Sensor 464,Lake V,False,turbidity too high
+Sensor 465,Lake W,False,"pH too low, turbidity too high"
+Sensor 466,Lake X,False,turbidity too high
+Sensor 467,Lake Y,False,turbidity too high
+Sensor 468,Lake Z,False,"pH too low, turbidity too high"
+Sensor 469,Lake A,False,turbidity too high
+Sensor 470,Lake B,False,turbidity too high
+Sensor 471,Lake C,False,turbidity too high
+Sensor 472,Lake D,False,turbidity too high
+Sensor 473,Lake E,False,turbidity too high
+Sensor 474,Lake F,False,"pH too low, turbidity too high"
+Sensor 475,Lake G,False,turbidity too high
+Sensor 476,Lake H,False,turbidity too high
+Sensor 477,Lake I,False,turbidity too high
+Sensor 478,Lake J,False,turbidity too high
+Sensor 479,Lake K,False,turbidity too high
+Sensor 480,Lake L,False,turbidity too high
+Sensor 481,Lake M,False,"pH too low, turbidity too high"
+Sensor 482,Lake N,False,turbidity too high
+Sensor 483,Lake O,False,turbidity too high
+Sensor 484,Lake P,False,turbidity too high
+Sensor 485,Lake Q,False,turbidity too high
+Sensor 486,Lake R,False,"pH too low, turbidity too high"
+Sensor 487,Lake S,False,turbidity too high
+Sensor 488,Lake T,False,turbidity too high
+Sensor 489,Lake U,False,turbidity too high
+Sensor 490,Lake V,False,turbidity too high
+Sensor 491,Lake W,False,turbidity too high
+Sensor 492,Lake X,False,turbidity too high
+Sensor 493,Lake Y,False,turbidity too high
+Sensor 494,Lake Z,False,turbidity too high
+Sensor 495,Lake A,False,turbidity too high
+Sensor 496,Lake B,False,turbidity too high
+Sensor 497,Lake C,False,turbidity too high
+Sensor 498,Lake D,False,turbidity too high
+Sensor 499,Lake E,False,turbidity too high
+Sensor 500,Lake F,False,turbidity too high
+Sensor 501,Lake G,False,turbidity too high
+Sensor 502,Lake H,False,turbidity too high
+Sensor 503,Lake I,False,turbidity too high
+Sensor 504,Lake J,False,"pH too low, turbidity too high"
+Sensor 505,Lake K,False,turbidity too high
+Sensor 506,Lake L,False,turbidity too high
+Sensor 507,Lake M,True,Safe
+Sensor 508,Lake N,False,turbidity too high
+Sensor 509,Lake O,False,"pH too low, turbidity too high"
+Sensor 510,Lake P,False,turbidity too high
+Sensor 511,Lake Q,False,turbidity too high
+Sensor 512,Lake R,False,turbidity too high
+Sensor 513,Lake S,False,turbidity too high
+Sensor 514,Lake T,False,"pH too low, turbidity too high"
+Sensor 515,Lake U,False,"pH too low, turbidity too high"
+Sensor 516,Lake V,False,turbidity too high
+Sensor 517,Lake W,False,"pH too low, turbidity too high"
+Sensor 518,Lake X,False,turbidity too high
+Sensor 519,Lake Y,False,"pH too low, turbidity too high"
+Sensor 520,Lake Z,False,turbidity too high
+Sensor 521,Lake A,False,turbidity too high
+Sensor 522,Lake B,False,turbidity too high
+Sensor 523,Lake C,False,turbidity too high
+Sensor 524,Lake D,False,turbidity too high
+Sensor 525,Lake E,False,turbidity too high
+Sensor 526,Lake F,False,turbidity too high
+Sensor 527,Lake G,False,turbidity too high
+Sensor 528,Lake H,False,turbidity too high
+Sensor 529,Lake I,False,turbidity too high
+Sensor 530,Lake J,False,turbidity too high
+Sensor 531,Lake K,False,"pH too low, turbidity too high"
+Sensor 532,Lake L,False,turbidity too high
+Sensor 533,Lake M,False,turbidity too high
+Sensor 534,Lake N,False,turbidity too high
+Sensor 535,Lake O,False,turbidity too high
+Sensor 536,Lake P,False,turbidity too high
+Sensor 537,Lake Q,False,turbidity too high
+Sensor 538,Lake R,False,turbidity too high
+Sensor 539,Lake S,False,turbidity too high
+Sensor 540,Lake T,False,turbidity too high
+Sensor 541,Lake U,False,turbidity too high
+Sensor 542,Lake V,False,turbidity too high
+Sensor 543,Lake W,False,turbidity too high
+Sensor 544,Lake X,False,turbidity too high
+Sensor 545,Lake Y,False,turbidity too high
+Sensor 546,Lake Z,False,turbidity too high
+Sensor 547,Lake A,False,turbidity too high
+Sensor 548,Lake B,False,turbidity too high
+Sensor 549,Lake C,False,"pH too low, turbidity too high"
+Sensor 550,Lake D,False,turbidity too high
+Sensor 551,Lake E,False,"pH too low, turbidity too high"
+Sensor 552,Lake F,False,turbidity too high
+Sensor 553,Lake G,False,turbidity too high
+Sensor 554,Lake H,False,turbidity too high
+Sensor 555,Lake I,False,turbidity too high
+Sensor 556,Lake J,False,turbidity too high
+Sensor 557,Lake K,False,"pH too low, turbidity too high"
+Sensor 558,Lake L,False,"pH too low, turbidity too high"
+Sensor 559,Lake M,False,turbidity too high
+Sensor 560,Lake N,False,"pH too low, turbidity too high"
+Sensor 561,Lake O,False,turbidity too high
+Sensor 562,Lake P,False,turbidity too high
+Sensor 563,Lake Q,False,turbidity too high
+Sensor 564,Lake R,False,"pH too low, turbidity too high"
+Sensor 565,Lake S,False,turbidity too high
+Sensor 566,Lake T,False,turbidity too high
+Sensor 567,Lake U,False,turbidity too high
+Sensor 568,Lake V,False,turbidity too high
+Sensor 569,Lake W,False,turbidity too high
+Sensor 570,Lake X,False,turbidity too high
+Sensor 571,Lake Y,False,"pH too low, turbidity too high"
+Sensor 572,Lake Z,False,turbidity too high
+Sensor 573,Lake A,False,"pH too low, turbidity too high"
+Sensor 574,Lake B,False,turbidity too high
+Sensor 575,Lake C,False,turbidity too high
+Sensor 576,Lake D,False,turbidity too high
+Sensor 577,Lake E,False,turbidity too high
+Sensor 578,Lake F,False,turbidity too high
+Sensor 579,Lake G,False,turbidity too high
+Sensor 580,Lake H,False,turbidity too high
+Sensor 581,Lake I,False,turbidity too high
+Sensor 582,Lake J,False,turbidity too high
+Sensor 583,Lake K,False,turbidity too high
+Sensor 584,Lake L,False,pH too low
+Sensor 585,Lake M,False,turbidity too high
+Sensor 586,Lake N,False,turbidity too high
+Sensor 587,Lake O,False,turbidity too high
+Sensor 588,Lake P,False,pH too low
+Sensor 589,Lake Q,False,turbidity too high
+Sensor 590,Lake R,False,turbidity too high
+Sensor 591,Lake S,False,turbidity too high
+Sensor 592,Lake T,False,"pH too low, turbidity too high"
+Sensor 593,Lake U,False,turbidity too high
+Sensor 594,Lake V,False,turbidity too high
+Sensor 595,Lake W,False,turbidity too high
+Sensor 596,Lake X,False,turbidity too high
+Sensor 597,Lake Y,False,turbidity too high
+Sensor 598,Lake Z,False,turbidity too high
+Sensor 599,Lake A,False,"pH too low, turbidity too high"
+Sensor 600,Lake B,False,"pH too low, turbidity too high"
+Sensor 601,Lake C,False,turbidity too high
+Sensor 602,Lake D,False,turbidity too high
+Sensor 603,Lake E,False,"pH too low, turbidity too high"
+Sensor 604,Lake F,False,"pH too low, turbidity too high"
+Sensor 605,Lake G,False,turbidity too high
+Sensor 606,Lake H,False,"pH too low, turbidity too high"
+Sensor 607,Lake I,False,turbidity too high
+Sensor 608,Lake J,False,turbidity too high
+Sensor 609,Lake K,False,turbidity too high
+Sensor 610,Lake L,False,turbidity too high
+Sensor 611,Lake M,False,turbidity too high
+Sensor 612,Lake N,False,turbidity too high
+Sensor 613,Lake O,False,turbidity too high
+Sensor 614,Lake P,False,turbidity too high
+Sensor 615,Lake Q,False,turbidity too high
+Sensor 616,Lake R,False,"pH too low, turbidity too high"
+Sensor 617,Lake S,False,"pH too low, turbidity too high"
+Sensor 618,Lake T,False,turbidity too high
+Sensor 619,Lake U,False,turbidity too high
+Sensor 620,Lake V,False,turbidity too high
+Sensor 621,Lake W,False,turbidity too high
+Sensor 622,Lake X,False,"pH too low, turbidity too high"
+Sensor 623,Lake Y,False,turbidity too high
+Sensor 624,Lake Z,False,turbidity too high
+Sensor 625,Lake A,False,turbidity too high
+Sensor 626,Lake B,False,turbidity too high
+Sensor 627,Lake C,False,turbidity too high
+Sensor 628,Lake D,False,turbidity too high
+Sensor 629,Lake E,False,turbidity too high
+Sensor 630,Lake F,False,turbidity too high
+Sensor 631,Lake G,False,turbidity too high
+Sensor 632,Lake H,False,turbidity too high
+Sensor 633,Lake I,False,turbidity too high
+Sensor 634,Lake J,False,turbidity too high
+Sensor 635,Lake K,False,"pH too low, turbidity too high"
+Sensor 636,Lake L,False,turbidity too high
+Sensor 637,Lake M,False,"pH too low, turbidity too high"
+Sensor 638,Lake N,False,turbidity too high
+Sensor 639,Lake O,False,"pH too low, turbidity too high"
+Sensor 640,Lake P,False,turbidity too high
+Sensor 641,Lake Q,False,turbidity too high
+Sensor 642,Lake R,False,turbidity too high
+Sensor 643,Lake S,True,Safe
+Sensor 644,Lake T,False,turbidity too high
+Sensor 645,Lake U,False,turbidity too high
+Sensor 646,Lake V,False,turbidity too high
+Sensor 647,Lake W,False,"pH too low, turbidity too high"
+Sensor 648,Lake X,False,turbidity too high
+Sensor 649,Lake Y,False,turbidity too high
+Sensor 650,Lake Z,False,turbidity too high
+Sensor 651,Lake A,False,turbidity too high
+Sensor 652,Lake B,False,turbidity too high
+Sensor 653,Lake C,False,turbidity too high
+Sensor 654,Lake D,False,turbidity too high
+Sensor 655,Lake E,True,Safe
+Sensor 656,Lake F,False,turbidity too high
+Sensor 657,Lake G,False,turbidity too high
+Sensor 658,Lake H,False,turbidity too high
+Sensor 659,Lake I,False,turbidity too high
+Sensor 660,Lake J,False,turbidity too high
+Sensor 661,Lake K,False,turbidity too high
+Sensor 662,Lake L,False,turbidity too high
+Sensor 663,Lake M,False,turbidity too high
+Sensor 664,Lake N,False,turbidity too high
+Sensor 665,Lake O,False,turbidity too high
+Sensor 666,Lake P,False,turbidity too high
+Sensor 667,Lake Q,False,turbidity too high
+Sensor 668,Lake R,False,turbidity too high
+Sensor 669,Lake S,False,"pH too low, turbidity too high"
+Sensor 670,Lake T,False,turbidity too high
+Sensor 671,Lake U,False,turbidity too high
+Sensor 672,Lake V,False,turbidity too high
+Sensor 673,Lake W,False,turbidity too high
+Sensor 674,Lake X,False,turbidity too high
+Sensor 675,Lake Y,False,"pH too low, turbidity too high"
+Sensor 676,Lake Z,False,turbidity too high
+Sensor 677,Lake A,False,turbidity too high
+Sensor 678,Lake B,False,turbidity too high
+Sensor 679,Lake C,False,turbidity too high
+Sensor 680,Lake D,False,turbidity too high
+Sensor 681,Lake E,False,turbidity too high
+Sensor 682,Lake F,False,turbidity too high
+Sensor 683,Lake G,False,turbidity too high
+Sensor 684,Lake H,False,turbidity too high
+Sensor 685,Lake I,False,turbidity too high
+Sensor 686,Lake J,True,Safe
+Sensor 687,Lake K,False,turbidity too high
+Sensor 688,Lake L,False,turbidity too high
+Sensor 689,Lake M,False,turbidity too high
+Sensor 690,Lake N,False,turbidity too high
+Sensor 691,Lake O,False,turbidity too high
+Sensor 692,Lake P,False,turbidity too high
+Sensor 693,Lake Q,False,turbidity too high
+Sensor 694,Lake R,False,turbidity too high
+Sensor 695,Lake S,False,turbidity too high
+Sensor 696,Lake T,False,turbidity too high
+Sensor 697,Lake U,False,turbidity too high
+Sensor 698,Lake V,False,turbidity too high
+Sensor 699,Lake W,False,"pH too low, turbidity too high"
+Sensor 700,Lake X,False,turbidity too high
+Sensor 701,Lake Y,False,turbidity too high
+Sensor 702,Lake Z,True,Safe
+Sensor 703,Lake A,False,turbidity too high
+Sensor 704,Lake B,False,turbidity too high
+Sensor 705,Lake C,False,turbidity too high
+Sensor 706,Lake D,False,turbidity too high
+Sensor 707,Lake E,False,turbidity too high
+Sensor 708,Lake F,False,turbidity too high
+Sensor 709,Lake G,False,turbidity too high
+Sensor 710,Lake H,False,turbidity too high
+Sensor 711,Lake I,False,"pH too low, turbidity too high"
+Sensor 712,Lake J,False,turbidity too high
+Sensor 713,Lake K,False,turbidity too high
+Sensor 714,Lake L,False,"pH too low, turbidity too high"
+Sensor 715,Lake M,False,turbidity too high
+Sensor 716,Lake N,False,"pH too low, turbidity too high"
+Sensor 717,Lake O,False,turbidity too high
+Sensor 718,Lake P,False,turbidity too high
+Sensor 719,Lake Q,False,turbidity too high
+Sensor 720,Lake R,False,turbidity too high
+Sensor 721,Lake S,False,turbidity too high
+Sensor 722,Lake T,False,turbidity too high
+Sensor 723,Lake U,False,turbidity too high
+Sensor 724,Lake V,False,turbidity too high
+Sensor 725,Lake W,False,turbidity too high
+Sensor 726,Lake X,False,turbidity too high
+Sensor 727,Lake Y,False,turbidity too high
+Sensor 728,Lake Z,False,turbidity too high
+Sensor 729,Lake A,False,turbidity too high
+Sensor 730,Lake B,False,turbidity too high
+Sensor 731,Lake C,False,"pH too low, turbidity too high"
+Sensor 732,Lake D,False,turbidity too high
+Sensor 733,Lake E,False,turbidity too high
+Sensor 734,Lake F,False,turbidity too high
+Sensor 735,Lake G,False,turbidity too high
+Sensor 736,Lake H,False,turbidity too high
+Sensor 737,Lake I,False,turbidity too high
+Sensor 738,Lake J,False,turbidity too high
+Sensor 739,Lake K,False,turbidity too high
+Sensor 740,Lake L,False,"pH too low, turbidity too high"
+Sensor 741,Lake M,False,turbidity too high
+Sensor 742,Lake N,False,turbidity too high
+Sensor 743,Lake O,False,turbidity too high
+Sensor 744,Lake P,False,turbidity too high
+Sensor 745,Lake Q,False,turbidity too high
+Sensor 746,Lake R,False,turbidity too high
+Sensor 747,Lake S,False,"pH too low, turbidity too high"
+Sensor 748,Lake T,False,turbidity too high
+Sensor 749,Lake U,False,turbidity too high
+Sensor 750,Lake V,False,turbidity too high
+Sensor 751,Lake W,False,"pH too low, turbidity too high"
+Sensor 752,Lake X,False,turbidity too high
+Sensor 753,Lake Y,False,turbidity too high
+Sensor 754,Lake Z,False,"pH too low, turbidity too high"
+Sensor 755,Lake A,False,turbidity too high
+Sensor 756,Lake B,False,turbidity too high
+Sensor 757,Lake C,False,turbidity too high
+Sensor 758,Lake D,False,turbidity too high
+Sensor 759,Lake E,False,turbidity too high
+Sensor 760,Lake F,False,turbidity too high
+Sensor 761,Lake G,False,turbidity too high
+Sensor 762,Lake H,False,turbidity too high
+Sensor 763,Lake I,False,turbidity too high
+Sensor 764,Lake J,False,turbidity too high
+Sensor 765,Lake K,False,turbidity too high
+Sensor 766,Lake L,False,"pH too low, turbidity too high"
+Sensor 767,Lake M,False,"pH too low, turbidity too high"
+Sensor 768,Lake N,False,turbidity too high
+Sensor 769,Lake O,False,turbidity too high
+Sensor 770,Lake P,False,turbidity too high
+Sensor 771,Lake Q,False,turbidity too high
+Sensor 772,Lake R,False,turbidity too high
+Sensor 773,Lake S,False,turbidity too high
+Sensor 774,Lake T,False,turbidity too high
+Sensor 775,Lake U,False,turbidity too high
+Sensor 776,Lake V,False,turbidity too high
+Sensor 777,Lake W,False,turbidity too high
+Sensor 778,Lake X,False,turbidity too high
+Sensor 779,Lake Y,False,turbidity too high
+Sensor 780,Lake Z,False,turbidity too high
+Sensor 781,Lake A,False,turbidity too high
+Sensor 782,Lake B,False,turbidity too high
+Sensor 783,Lake C,False,turbidity too high
+Sensor 784,Lake D,False,"pH too low, turbidity too high"
+Sensor 785,Lake E,False,"pH too low, turbidity too high"
+Sensor 786,Lake F,False,turbidity too high
+Sensor 787,Lake G,False,"pH too low, turbidity too high"
+Sensor 788,Lake H,False,turbidity too high
+Sensor 789,Lake I,False,pH too low
+Sensor 790,Lake J,False,turbidity too high
+Sensor 791,Lake K,False,turbidity too high
+Sensor 792,Lake L,False,turbidity too high
+Sensor 793,Lake M,False,turbidity too high
+Sensor 794,Lake N,True,Safe
+Sensor 795,Lake O,False,turbidity too high
+Sensor 796,Lake P,False,turbidity too high
+Sensor 797,Lake Q,False,turbidity too high
+Sensor 798,Lake R,False,turbidity too high
+Sensor 799,Lake S,False,turbidity too high
+Sensor 800,Lake T,False,turbidity too high
+Sensor 801,Lake U,False,turbidity too high
+Sensor 802,Lake V,False,"pH too low, turbidity too high"
+Sensor 803,Lake W,False,turbidity too high
+Sensor 804,Lake X,False,turbidity too high
+Sensor 805,Lake Y,True,Safe
+Sensor 806,Lake Z,False,turbidity too high
+Sensor 807,Lake A,False,turbidity too high
+Sensor 808,Lake B,True,Safe
+Sensor 809,Lake C,False,turbidity too high
+Sensor 810,Lake D,True,Safe
+Sensor 811,Lake E,False,turbidity too high
+Sensor 812,Lake F,False,turbidity too high
+Sensor 813,Lake G,False,turbidity too high
+Sensor 814,Lake H,False,"pH too low, turbidity too high"
+Sensor 815,Lake I,False,"pH too low, turbidity too high"
+Sensor 816,Lake J,False,turbidity too high
+Sensor 817,Lake K,False,turbidity too high
+Sensor 818,Lake L,False,turbidity too high
+Sensor 819,Lake M,False,turbidity too high
+Sensor 820,Lake N,False,"pH too low, turbidity too high"
+Sensor 821,Lake O,False,turbidity too high
+Sensor 822,Lake P,False,turbidity too high
+Sensor 823,Lake Q,False,turbidity too high
+Sensor 824,Lake R,False,turbidity too high
+Sensor 825,Lake S,False,turbidity too high
+Sensor 826,Lake T,False,turbidity too high
+Sensor 827,Lake U,False,turbidity too high
+Sensor 828,Lake V,False,turbidity too high
+Sensor 829,Lake W,False,turbidity too high
+Sensor 830,Lake X,True,Safe
+Sensor 831,Lake Y,False,turbidity too high
+Sensor 832,Lake Z,False,turbidity too high
+Sensor 833,Lake A,False,turbidity too high
+Sensor 834,Lake B,False,turbidity too high
+Sensor 835,Lake C,False,turbidity too high
+Sensor 836,Lake D,False,turbidity too high
+Sensor 837,Lake E,False,turbidity too high
+Sensor 838,Lake F,False,turbidity too high
+Sensor 839,Lake G,False,turbidity too high
+Sensor 840,Lake H,False,turbidity too high
+Sensor 841,Lake I,False,turbidity too high
+Sensor 842,Lake J,False,turbidity too high
+Sensor 843,Lake K,False,turbidity too high
+Sensor 844,Lake L,False,turbidity too high
+Sensor 845,Lake M,False,turbidity too high
+Sensor 846,Lake N,False,turbidity too high
+Sensor 847,Lake O,False,turbidity too high
+Sensor 848,Lake P,False,turbidity too high
+Sensor 849,Lake Q,False,turbidity too high
+Sensor 850,Lake R,False,turbidity too high
+Sensor 851,Lake S,False,turbidity too high
+Sensor 852,Lake T,False,turbidity too high
+Sensor 853,Lake U,False,turbidity too high
+Sensor 854,Lake V,False,turbidity too high
+Sensor 855,Lake W,False,turbidity too high
+Sensor 856,Lake X,False,turbidity too high
+Sensor 857,Lake Y,False,turbidity too high
+Sensor 858,Lake Z,False,"pH too low, turbidity too high"
+Sensor 859,Lake A,True,Safe
+Sensor 860,Lake B,False,"pH too low, turbidity too high"
+Sensor 861,Lake C,False,turbidity too high
+Sensor 862,Lake D,False,turbidity too high
+Sensor 863,Lake E,False,turbidity too high
+Sensor 864,Lake F,False,turbidity too high
+Sensor 865,Lake G,False,turbidity too high
+Sensor 866,Lake H,False,turbidity too high
+Sensor 867,Lake I,False,turbidity too high
+Sensor 868,Lake J,False,turbidity too high
+Sensor 869,Lake K,False,"pH too low, turbidity too high"
+Sensor 870,Lake L,False,turbidity too high
+Sensor 871,Lake M,False,"pH too low, turbidity too high"
+Sensor 872,Lake N,False,turbidity too high
+Sensor 873,Lake O,False,turbidity too high
+Sensor 874,Lake P,False,turbidity too high
+Sensor 875,Lake Q,False,turbidity too high
+Sensor 876,Lake R,True,Safe
+Sensor 877,Lake S,False,turbidity too high
+Sensor 878,Lake T,False,turbidity too high
+Sensor 879,Lake U,False,turbidity too high
+Sensor 880,Lake V,False,turbidity too high
+Sensor 881,Lake W,False,turbidity too high
+Sensor 882,Lake X,False,turbidity too high
+Sensor 883,Lake Y,False,turbidity too high
+Sensor 884,Lake Z,False,turbidity too high
+Sensor 885,Lake A,False,turbidity too high
+Sensor 886,Lake B,False,turbidity too high
+Sensor 887,Lake C,False,turbidity too high
+Sensor 888,Lake D,False,turbidity too high
+Sensor 889,Lake E,False,turbidity too high
+Sensor 890,Lake F,False,turbidity too high
+Sensor 891,Lake G,False,turbidity too high
+Sensor 892,Lake H,False,turbidity too high
+Sensor 893,Lake I,False,"pH too low, turbidity too high"
+Sensor 894,Lake J,False,turbidity too high
+Sensor 895,Lake K,False,turbidity too high
+Sensor 896,Lake L,False,turbidity too high
+Sensor 897,Lake M,False,turbidity too high
+Sensor 898,Lake N,False,turbidity too high
+Sensor 899,Lake O,False,turbidity too high
+Sensor 900,Lake P,False,turbidity too high
+Sensor 901,Lake Q,False,"pH too low, turbidity too high"
+Sensor 902,Lake R,True,Safe
+Sensor 903,Lake S,False,turbidity too high
+Sensor 904,Lake T,False,turbidity too high
+Sensor 905,Lake U,False,turbidity too high
+Sensor 906,Lake V,False,turbidity too high
+Sensor 907,Lake W,False,turbidity too high
+Sensor 908,Lake X,False,turbidity too high
+Sensor 909,Lake Y,False,turbidity too high
+Sensor 910,Lake Z,False,turbidity too high
+Sensor 911,Lake A,False,turbidity too high
+Sensor 912,Lake B,False,turbidity too high
+Sensor 913,Lake C,False,turbidity too high
+Sensor 914,Lake D,False,turbidity too high
+Sensor 915,Lake E,False,turbidity too high
+Sensor 916,Lake F,False,turbidity too high
+Sensor 917,Lake G,False,"pH too low, turbidity too high"
+Sensor 918,Lake H,False,turbidity too high
+Sensor 919,Lake I,False,"pH too low, turbidity too high"
+Sensor 920,Lake J,False,turbidity too high
+Sensor 921,Lake K,False,turbidity too high
+Sensor 922,Lake L,False,turbidity too high
+Sensor 923,Lake M,False,"pH too low, turbidity too high"
+Sensor 924,Lake N,False,turbidity too high
+Sensor 925,Lake O,False,"pH too low, turbidity too high"
+Sensor 926,Lake P,False,turbidity too high
+Sensor 927,Lake Q,False,turbidity too high
+Sensor 928,Lake R,False,turbidity too high
+Sensor 929,Lake S,False,turbidity too high
+Sensor 930,Lake T,False,turbidity too high
+Sensor 931,Lake U,False,turbidity too high
+Sensor 932,Lake V,False,turbidity too high
+Sensor 933,Lake W,False,turbidity too high
+Sensor 934,Lake X,False,turbidity too high
+Sensor 935,Lake Y,False,turbidity too high
+Sensor 936,Lake Z,False,turbidity too high
+Sensor 937,Lake A,False,turbidity too high
+Sensor 938,Lake B,False,turbidity too high
+Sensor 939,Lake C,False,turbidity too high
+Sensor 940,Lake D,False,"pH too low, turbidity too high"
+Sensor 941,Lake E,False,turbidity too high
+Sensor 942,Lake F,False,turbidity too high
+Sensor 943,Lake G,False,"pH too low, turbidity too high"
+Sensor 944,Lake H,False,turbidity too high
+Sensor 945,Lake I,False,turbidity too high
+Sensor 946,Lake J,False,turbidity too high
+Sensor 947,Lake K,False,turbidity too high
+Sensor 948,Lake L,True,Safe
+Sensor 949,Lake M,False,turbidity too high
+Sensor 950,Lake N,False,turbidity too high
+Sensor 951,Lake O,False,turbidity too high
+Sensor 952,Lake P,False,turbidity too high
+Sensor 953,Lake Q,False,turbidity too high
+Sensor 954,Lake R,False,turbidity too high
+Sensor 955,Lake S,False,turbidity too high
+Sensor 956,Lake T,False,turbidity too high
+Sensor 957,Lake U,False,turbidity too high
+Sensor 958,Lake V,False,turbidity too high
+Sensor 959,Lake W,False,turbidity too high
+Sensor 960,Lake X,False,"pH too low, turbidity too high"
+Sensor 961,Lake Y,False,"pH too low, turbidity too high"
+Sensor 962,Lake Z,False,"pH too low, turbidity too high"
+Sensor 963,Lake A,False,turbidity too high
+Sensor 964,Lake B,False,turbidity too high
+Sensor 965,Lake C,False,turbidity too high
+Sensor 966,Lake D,False,turbidity too high
+Sensor 967,Lake E,False,"pH too low, turbidity too high"
+Sensor 968,Lake F,False,turbidity too high
+Sensor 969,Lake G,False,turbidity too high
+Sensor 970,Lake H,False,turbidity too high
+Sensor 971,Lake I,False,turbidity too high
+Sensor 972,Lake J,False,turbidity too high
+Sensor 973,Lake K,False,turbidity too high
+Sensor 974,Lake L,False,turbidity too high
+Sensor 975,Lake M,False,turbidity too high
+Sensor 976,Lake N,False,turbidity too high
+Sensor 977,Lake O,False,"pH too low, turbidity too high"
+Sensor 978,Lake P,False,turbidity too high
+Sensor 979,Lake Q,False,turbidity too high
+Sensor 980,Lake R,False,turbidity too high
+Sensor 981,Lake S,False,turbidity too high
+Sensor 982,Lake T,False,turbidity too high
+Sensor 983,Lake U,False,turbidity too high
+Sensor 984,Lake V,False,turbidity too high
+Sensor 985,Lake W,False,turbidity too high
+Sensor 986,Lake X,False,turbidity too high
+Sensor 987,Lake Y,False,turbidity too high
+Sensor 988,Lake Z,False,turbidity too high
+Sensor 989,Lake A,False,turbidity too high
+Sensor 990,Lake B,False,"pH too low, turbidity too high"
+Sensor 991,Lake C,False,turbidity too high
+Sensor 992,Lake D,False,"pH too low, turbidity too high"
+Sensor 993,Lake E,False,turbidity too high
+Sensor 994,Lake F,False,turbidity too high
+Sensor 995,Lake G,False,turbidity too high
+Sensor 996,Lake H,False,turbidity too high
+Sensor 997,Lake I,False,turbidity too high
+Sensor 998,Lake J,False,turbidity too high
+Sensor 999,Lake K,False,turbidity too high
+Sensor 1000,Lake L,False,turbidity too high
