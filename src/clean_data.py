@@ -1,7 +1,6 @@
-def clean_sensor_data(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Clean sensor data by handling missing or invalid values.
-
-    Returns:
-        pd.DataFrame: Cleaned data.
-    """
+def clean_data(df):
+    df = df.copy()
+    df = df.dropna(subset=["pH", "turbidity"])
+    df["temperature"] = df["temperature"].fillna(df["temperature"].mean())
+    df["dissolved_oxygen"] = df["dissolved_oxygen"].fillna(df["dissolved_oxygen"].mean())
+    return df
