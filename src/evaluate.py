@@ -79,7 +79,7 @@ def evaluate_and_save_results(df, output_path, show_top_n=5):
         }
         for r in results[:show_top_n]
     ]
-
+# Creating the output directory and writing the sensor readings to a CSV file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["sensor_id", "location", "ph", "turbidity", "temperature"])
