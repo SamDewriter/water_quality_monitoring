@@ -1,9 +1,25 @@
+import pandas as pd
+# evaluate.py
 class WaterQualityEvaluator:
-    def __init__(self, ph_range=(6.5, 8.5), turbidity_threshold=1.0):
-        self.ph_range = ph_range
-        self.turbidity_threshold = turbidity_threshold
+    def __init__(self, ph_min: float, ph_max: float, turbidity_max: float):
+        self.ph_min = ph_min
+        self.ph_max = ph_max
+        self.turbidity_max = turbidity_max
 
-    def is_safe(self, row: pd.Series) -> bool:
-        """
-        Determine if a row of water data is safe.
-        """
+    def evaluate(self, sensor):
+        reasons = []
+
+        if sensor.ph is None or pd.isna(sensor.ph):
+            reasons.append("missing pH")
+        elif not (self.ph_min <= sensor.ph <= self.ph_max):
+            reasons.append("pH too high" if sensor.ph > self.ph_max else "pH too low")
+
+        if sensor.turbidity is None or pd.isna(sensor.turbidity):
+            reasons.append("missing turbidity")
+        elif sensor.turbidity > self.turbidity_max:
+            reasons.append("turbidity too high")
+
+        sensor.safety_status = f"Unsafe ({', '.join(reasons)})" if reasons else "Safe"
+        return sensor
+
+

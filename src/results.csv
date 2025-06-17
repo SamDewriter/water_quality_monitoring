@@ -1,0 +1,1001 @@
+sensor_id,location,ph,turbidity,safety_status
+SENSOR_005,Unknown location,6.48,2.43,Unsafe (pH too low)
+SENSOR_017,Unknown location,7.04,4.39,Safe
+SENSOR_010,Unknown location,6.69,3.78,Safe
+SENSOR_009,Unknown location,6.5,2.42,Safe
+SENSOR_001,Unknown location,7.75,2.72,Safe
+SENSOR_013,Unknown location,7.52,1.04,Safe
+SENSOR_018,Unknown location,7.51,1.44,Safe
+SENSOR_019,Unknown location,7.11,3.68,Safe
+SENSOR_003,Unknown location,7.58,2.62,Safe
+SENSOR_016,Unknown location,7.43,3.43,Safe
+SENSOR_005,Unknown location,7.08,3.91,Safe
+SENSOR_008,Unknown location,7.36,4.98,Safe
+SENSOR_007,Unknown location,7.39,3.91,Safe
+SENSOR_018,Unknown location,7.31,3.81,Safe
+SENSOR_017,Unknown location,6.68,2.91,Safe
+SENSOR_006,Unknown location,7.16,4.11,Safe
+SENSOR_003,Unknown location,7.12,2.13,Safe
+SENSOR_013,Unknown location,6.95,2.23,Safe
+SENSOR_002,Unknown location,6.62,4.31,Safe
+SENSOR_019,Unknown location,7.2,4.2,Safe
+SENSOR_010,Unknown location,6.55,3.52,Safe
+SENSOR_004,Unknown location,7.68,2.87,Safe
+SENSOR_005,Unknown location,6.65,3.0,Safe
+SENSOR_002,Unknown location,7.71,3.55,Safe
+SENSOR_002,Unknown location,7.14,1.81,Safe
+SENSOR_007,Unknown location,6.99,2.5,Safe
+SENSOR_006,Unknown location,7.04,1.63,Safe
+SENSOR_010,Unknown location,7.2,4.35,Safe
+SENSOR_016,Unknown location,6.97,2.35,Safe
+SENSOR_005,Unknown location,6.61,2.95,Safe
+SENSOR_016,Unknown location,7.48,3.86,Safe
+SENSOR_012,Unknown location,6.28,3.04,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.91,4.17,Safe
+SENSOR_008,Unknown location,6.74,1.67,Safe
+SENSOR_019,Unknown location,6.25,4.71,Unsafe (pH too low)
+SENSOR_002,Unknown location,6.98,2.38,Safe
+SENSOR_012,Unknown location,7.55,2.04,Safe
+SENSOR_012,Unknown location,7.26,3.99,Safe
+SENSOR_011,Unknown location,7.08,2.73,Safe
+SENSOR_008,Unknown location,7.61,3.46,Safe
+SENSOR_016,Unknown location,7.35,2.19,Safe
+SENSOR_011,Unknown location,7.61,3.2,Safe
+SENSOR_009,Unknown location,6.66,4.72,Safe
+SENSOR_013,Unknown location,7.1,3.8,Safe
+SENSOR_010,Unknown location,6.78,4.01,Safe
+SENSOR_014,Unknown location,6.27,4.23,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.31,0.93,Safe
+SENSOR_020,Unknown location,6.86,0.79,Safe
+SENSOR_020,Unknown location,6.11,2.57,Unsafe (pH too low)
+SENSOR_003,Unknown location,7.3,1.53,Safe
+SENSOR_017,Unknown location,7.25,3.37,Safe
+SENSOR_006,Unknown location,7.48,2.24,Safe
+SENSOR_013,Unknown location,7.78,2.57,Safe
+SENSOR_002,Unknown location,8.11,5.25,Unsafe (turbidity too high)
+SENSOR_008,Unknown location,7.2,2.8,Safe
+SENSOR_017,Unknown location,6.12,3.62,Unsafe (pH too low)
+SENSOR_002,Unknown location,6.07,2.18,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.07,2.16,Safe
+SENSOR_011,Unknown location,7.69,2.18,Safe
+SENSOR_012,Unknown location,7.63,2.45,Safe
+SENSOR_011,Unknown location,6.48,3.7,Unsafe (pH too low)
+SENSOR_019,Unknown location,7.0,3.96,Safe
+SENSOR_003,Unknown location,7.33,2.32,Safe
+SENSOR_005,Unknown location,7.84,4.16,Safe
+SENSOR_011,Unknown location,7.08,2.65,Safe
+SENSOR_001,Unknown location,6.29,2.29,Unsafe (pH too low)
+SENSOR_007,Unknown location,7.11,1.03,Safe
+SENSOR_013,Unknown location,6.75,3.56,Safe
+SENSOR_009,Unknown location,6.94,3.68,Safe
+SENSOR_018,Unknown location,6.41,3.0,Unsafe (pH too low)
+SENSOR_014,Unknown location,7.24,2.81,Safe
+SENSOR_012,Unknown location,6.72,2.77,Safe
+SENSOR_002,Unknown location,6.98,2.64,Safe
+SENSOR_013,Unknown location,7.45,4.05,Safe
+SENSOR_002,Unknown location,6.57,1.68,Safe
+SENSOR_013,Unknown location,6.23,3.57,Unsafe (pH too low)
+SENSOR_015,Unknown location,7.22,2.04,Safe
+SENSOR_005,Unknown location,7.09,2.8,Safe
+SENSOR_013,Unknown location,8.11,4.5,Safe
+SENSOR_008,Unknown location,6.26,2.04,Unsafe (pH too low)
+SENSOR_016,Unknown location,6.05,3.66,Unsafe (pH too low)
+SENSOR_003,Unknown location,7.44,5.18,Unsafe (turbidity too high)
+SENSOR_001,Unknown location,7.19,1.76,Safe
+SENSOR_001,Unknown location,7.37,3.42,Safe
+SENSOR_006,Unknown location,6.26,1.28,Unsafe (pH too low)
+SENSOR_015,Unknown location,7.46,4.1,Safe
+SENSOR_015,Unknown location,6.7,3.92,Safe
+SENSOR_012,Unknown location,7.17,2.58,Safe
+SENSOR_002,Unknown location,7.06,2.69,Safe
+SENSOR_005,Unknown location,7.52,1.92,Safe
+SENSOR_001,Unknown location,7.32,2.72,Safe
+SENSOR_016,Unknown location,6.17,3.77,Unsafe (pH too low)
+SENSOR_011,Unknown location,7.01,0.07,Safe
+SENSOR_019,Unknown location,6.89,1.99,Safe
+SENSOR_006,Unknown location,6.99,4.11,Safe
+SENSOR_012,Unknown location,6.73,2.85,Safe
+SENSOR_018,Unknown location,7.91,3.32,Safe
+SENSOR_008,Unknown location,6.63,1.71,Safe
+SENSOR_011,Unknown location,7.61,3.88,Safe
+SENSOR_009,Unknown location,6.81,2.65,Safe
+SENSOR_017,Unknown location,7.17,2.64,Safe
+SENSOR_016,Unknown location,7.48,4.81,Safe
+SENSOR_017,Unknown location,7.29,2.62,Safe
+SENSOR_010,Unknown location,6.17,3.92,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.91,3.56,Safe
+SENSOR_012,Unknown location,6.4,3.49,Unsafe (pH too low)
+SENSOR_017,Unknown location,6.9,1.34,Safe
+SENSOR_010,Unknown location,7.01,2.08,Safe
+SENSOR_005,Unknown location,6.45,3.29,Unsafe (pH too low)
+SENSOR_011,Unknown location,6.96,3.14,Safe
+SENSOR_014,Unknown location,6.54,2.76,Safe
+SENSOR_017,Unknown location,6.99,3.07,Safe
+SENSOR_017,Unknown location,6.35,3.1,Unsafe (pH too low)
+SENSOR_007,Unknown location,7.53,2.5,Safe
+SENSOR_015,Unknown location,7.03,0.93,Safe
+SENSOR_019,Unknown location,8.24,2.79,Safe
+SENSOR_005,Unknown location,6.83,3.62,Safe
+SENSOR_006,Unknown location,7.2,2.06,Safe
+SENSOR_005,Unknown location,7.93,2.67,Safe
+SENSOR_013,Unknown location,7.58,2.67,Safe
+SENSOR_011,Unknown location,7.73,2.72,Safe
+SENSOR_018,Unknown location,6.32,3.96,Unsafe (pH too low)
+SENSOR_018,Unknown location,6.39,4.48,Unsafe (pH too low)
+SENSOR_004,Unknown location,7.39,4.1,Safe
+SENSOR_014,Unknown location,5.89,2.31,Unsafe (pH too low)
+SENSOR_018,Unknown location,6.5,3.51,Safe
+SENSOR_011,Unknown location,7.5,3.16,Safe
+SENSOR_008,Unknown location,7.15,2.55,Safe
+SENSOR_010,Unknown location,7.13,2.22,Safe
+SENSOR_005,Unknown location,6.9,3.87,Safe
+SENSOR_007,Unknown location,6.18,3.24,Unsafe (pH too low)
+SENSOR_011,Unknown location,6.53,4.01,Safe
+SENSOR_016,Unknown location,7.39,1.7,Safe
+SENSOR_004,Unknown location,6.61,3.7,Safe
+SENSOR_001,Unknown location,7.14,2.78,Safe
+SENSOR_016,Unknown location,7.15,1.97,Safe
+SENSOR_020,Unknown location,7.77,1.92,Safe
+SENSOR_017,Unknown location,7.13,1.2,Safe
+SENSOR_017,Unknown location,7.26,1.85,Safe
+SENSOR_010,Unknown location,6.57,3.9,Safe
+SENSOR_004,Unknown location,8.26,3.72,Safe
+SENSOR_011,Unknown location,6.71,2.05,Safe
+SENSOR_003,Unknown location,6.63,4.52,Safe
+SENSOR_013,Unknown location,7.23,4.95,Safe
+SENSOR_019,Unknown location,6.85,5.36,Unsafe (turbidity too high)
+SENSOR_013,Unknown location,7.54,2.37,Safe
+SENSOR_001,Unknown location,6.93,3.82,Safe
+SENSOR_017,Unknown location,7.0,3.39,Safe
+SENSOR_013,Unknown location,6.54,2.74,Safe
+SENSOR_020,Unknown location,5.76,3.82,Unsafe (pH too low)
+SENSOR_012,Unknown location,6.91,5.35,Unsafe (turbidity too high)
+SENSOR_016,Unknown location,7.01,3.68,Safe
+SENSOR_012,Unknown location,6.84,3.47,Safe
+SENSOR_019,Unknown location,6.73,2.76,Safe
+SENSOR_008,Unknown location,6.65,5.31,Unsafe (turbidity too high)
+SENSOR_016,Unknown location,7.97,4.33,Safe
+SENSOR_011,Unknown location,7.29,2.63,Safe
+SENSOR_020,Unknown location,7.4,2.24,Safe
+SENSOR_016,Unknown location,6.61,3.96,Safe
+SENSOR_008,Unknown location,6.8,4.27,Safe
+SENSOR_014,Unknown location,6.68,3.16,Safe
+SENSOR_009,Unknown location,7.0,2.56,Safe
+SENSOR_012,Unknown location,6.9,2.71,Safe
+SENSOR_008,Unknown location,7.24,3.02,Safe
+SENSOR_001,Unknown location,6.61,3.33,Safe
+SENSOR_006,Unknown location,7.4,1.34,Safe
+SENSOR_019,Unknown location,6.46,3.36,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.07,2.11,Safe
+SENSOR_018,Unknown location,6.84,2.94,Safe
+SENSOR_009,Unknown location,7.36,4.09,Safe
+SENSOR_018,Unknown location,7.0,5.15,Unsafe (turbidity too high)
+SENSOR_004,Unknown location,7.08,2.91,Safe
+SENSOR_004,Unknown location,6.63,4.65,Safe
+SENSOR_018,Unknown location,6.55,4.31,Safe
+SENSOR_016,Unknown location,6.37,1.8,Unsafe (pH too low)
+SENSOR_017,Unknown location,7.4,1.4,Safe
+SENSOR_006,Unknown location,7.32,2.4,Safe
+SENSOR_002,Unknown location,7.61,2.04,Safe
+SENSOR_002,Unknown location,6.98,2.52,Safe
+SENSOR_020,Unknown location,7.19,2.93,Safe
+SENSOR_010,Unknown location,6.48,2.31,Unsafe (pH too low)
+SENSOR_015,Unknown location,7.01,3.92,Safe
+SENSOR_017,Unknown location,7.83,3.36,Safe
+SENSOR_011,Unknown location,6.53,2.93,Safe
+SENSOR_006,Unknown location,7.46,2.99,Safe
+SENSOR_002,Unknown location,7.11,2.07,Safe
+SENSOR_001,Unknown location,7.57,2.97,Safe
+SENSOR_004,Unknown location,6.34,2.58,Unsafe (pH too low)
+SENSOR_008,Unknown location,7.25,3.01,Safe
+SENSOR_003,Unknown location,8.0,3.74,Safe
+SENSOR_007,Unknown location,6.84,3.03,Safe
+SENSOR_014,Unknown location,6.65,3.54,Safe
+SENSOR_010,Unknown location,6.81,2.89,Safe
+SENSOR_014,Unknown location,6.23,3.06,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.18,4.83,Safe
+SENSOR_008,Unknown location,6.96,2.89,Safe
+SENSOR_013,Unknown location,6.92,3.63,Safe
+SENSOR_001,Unknown location,6.41,3.22,Unsafe (pH too low)
+SENSOR_016,Unknown location,6.18,2.48,Unsafe (pH too low)
+SENSOR_004,Unknown location,7.35,3.18,Safe
+SENSOR_006,Unknown location,6.45,3.53,Unsafe (pH too low)
+SENSOR_020,Unknown location,7.19,2.82,Safe
+SENSOR_007,Unknown location,6.17,1.98,Unsafe (pH too low)
+SENSOR_010,Unknown location,6.75,3.3,Safe
+SENSOR_013,Unknown location,7.23,2.15,Safe
+SENSOR_004,Unknown location,6.81,3.76,Safe
+SENSOR_012,Unknown location,6.85,2.45,Safe
+SENSOR_005,Unknown location,6.95,3.5,Safe
+SENSOR_005,Unknown location,7.04,3.73,Safe
+SENSOR_020,Unknown location,6.26,2.88,Unsafe (pH too low)
+SENSOR_016,Unknown location,7.32,3.48,Safe
+SENSOR_011,Unknown location,6.8,3.52,Safe
+SENSOR_018,Unknown location,6.14,2.96,Unsafe (pH too low)
+SENSOR_007,Unknown location,7.54,3.04,Safe
+SENSOR_005,Unknown location,7.68,3.34,Safe
+SENSOR_003,Unknown location,7.79,2.61,Safe
+SENSOR_014,Unknown location,7.16,2.26,Safe
+SENSOR_014,Unknown location,7.02,2.38,Safe
+SENSOR_003,Unknown location,6.81,4.27,Safe
+SENSOR_010,Unknown location,6.85,3.82,Safe
+SENSOR_017,Unknown location,7.21,3.25,Safe
+SENSOR_009,Unknown location,5.86,3.24,Unsafe (pH too low)
+SENSOR_018,Unknown location,7.7,2.81,Safe
+SENSOR_011,Unknown location,7.6,3.68,Safe
+SENSOR_007,Unknown location,7.03,4.2,Safe
+SENSOR_012,Unknown location,6.47,2.88,Unsafe (pH too low)
+SENSOR_007,Unknown location,7.24,3.18,Safe
+SENSOR_014,Unknown location,6.69,3.53,Safe
+SENSOR_018,Unknown location,6.99,3.83,Safe
+SENSOR_013,Unknown location,7.1,3.15,Safe
+SENSOR_008,Unknown location,7.33,4.39,Safe
+SENSOR_004,Unknown location,7.72,4.39,Safe
+SENSOR_006,Unknown location,6.9,4.57,Safe
+SENSOR_015,Unknown location,6.4,1.95,Unsafe (pH too low)
+SENSOR_009,Unknown location,7.8,3.34,Safe
+SENSOR_016,Unknown location,6.34,3.68,Unsafe (pH too low)
+SENSOR_020,Unknown location,6.8,3.93,Safe
+SENSOR_001,Unknown location,7.32,2.67,Safe
+SENSOR_003,Unknown location,7.34,2.37,Safe
+SENSOR_015,Unknown location,6.96,3.57,Safe
+SENSOR_009,Unknown location,7.38,0.97,Safe
+SENSOR_005,Unknown location,7.37,3.19,Safe
+SENSOR_013,Unknown location,7.27,2.92,Safe
+SENSOR_007,Unknown location,6.33,4.16,Unsafe (pH too low)
+SENSOR_016,Unknown location,6.99,1.99,Safe
+SENSOR_007,Unknown location,6.55,2.04,Safe
+SENSOR_010,Unknown location,7.64,2.59,Safe
+SENSOR_008,Unknown location,7.18,2.28,Safe
+SENSOR_020,Unknown location,7.86,3.38,Safe
+SENSOR_015,Unknown location,6.83,4.1,Safe
+SENSOR_003,Unknown location,6.65,2.54,Safe
+SENSOR_012,Unknown location,7.5,2.74,Safe
+SENSOR_001,Unknown location,6.79,2.21,Safe
+SENSOR_006,Unknown location,6.61,2.88,Safe
+SENSOR_014,Unknown location,5.91,2.71,Unsafe (pH too low)
+SENSOR_002,Unknown location,6.6,4.72,Safe
+SENSOR_012,Unknown location,7.4,3.69,Safe
+SENSOR_015,Unknown location,7.08,2.23,Safe
+SENSOR_005,Unknown location,6.78,5.04,Unsafe (turbidity too high)
+SENSOR_014,Unknown location,7.21,2.1,Safe
+SENSOR_011,Unknown location,7.15,1.99,Safe
+SENSOR_001,Unknown location,7.44,1.81,Safe
+SENSOR_014,Unknown location,7.22,4.3,Safe
+SENSOR_001,Unknown location,6.88,2.06,Safe
+SENSOR_008,Unknown location,6.55,2.87,Safe
+SENSOR_012,Unknown location,7.46,2.18,Safe
+SENSOR_019,Unknown location,7.6,1.43,Safe
+SENSOR_019,Unknown location,7.23,2.1,Safe
+SENSOR_020,Unknown location,6.71,2.7,Safe
+SENSOR_001,Unknown location,7.01,2.66,Safe
+SENSOR_002,Unknown location,6.66,1.64,Safe
+SENSOR_007,Unknown location,6.16,3.04,Unsafe (pH too low)
+SENSOR_018,Unknown location,6.95,3.59,Safe
+SENSOR_010,Unknown location,7.73,3.04,Safe
+SENSOR_005,Unknown location,6.92,2.94,Safe
+SENSOR_010,Unknown location,7.45,1.88,Safe
+SENSOR_006,Unknown location,7.29,4.36,Safe
+SENSOR_018,Unknown location,7.34,2.39,Safe
+SENSOR_003,Unknown location,6.64,2.8,Safe
+SENSOR_017,Unknown location,7.36,2.77,Safe
+SENSOR_006,Unknown location,7.44,3.51,Safe
+SENSOR_006,Unknown location,6.99,2.53,Safe
+SENSOR_004,Unknown location,7.32,1.71,Safe
+SENSOR_003,Unknown location,6.57,2.83,Safe
+SENSOR_018,Unknown location,6.63,2.35,Safe
+SENSOR_001,Unknown location,6.79,4.88,Safe
+SENSOR_019,Unknown location,6.91,0.98,Safe
+SENSOR_016,Unknown location,7.01,3.59,Safe
+SENSOR_007,Unknown location,7.7,3.15,Safe
+SENSOR_014,Unknown location,8.09,1.86,Safe
+SENSOR_003,Unknown location,7.39,2.38,Safe
+SENSOR_004,Unknown location,6.9,2.99,Safe
+SENSOR_020,Unknown location,6.8,3.64,Safe
+SENSOR_014,Unknown location,6.59,2.73,Safe
+SENSOR_002,Unknown location,7.85,2.61,Safe
+SENSOR_008,Unknown location,7.84,4.24,Safe
+SENSOR_013,Unknown location,6.72,3.09,Safe
+SENSOR_013,Unknown location,5.97,2.39,Unsafe (pH too low)
+SENSOR_001,Unknown location,6.98,3.1,Safe
+SENSOR_010,Unknown location,6.39,2.54,Unsafe (pH too low)
+SENSOR_020,Unknown location,6.7,4.11,Safe
+SENSOR_019,Unknown location,7.46,3.93,Safe
+SENSOR_016,Unknown location,7.06,2.45,Safe
+SENSOR_006,Unknown location,6.45,1.55,Unsafe (pH too low)
+SENSOR_010,Unknown location,6.73,4.17,Safe
+SENSOR_015,Unknown location,6.68,3.39,Safe
+SENSOR_005,Unknown location,7.4,2.16,Safe
+SENSOR_003,Unknown location,6.85,3.3,Safe
+SENSOR_003,Unknown location,5.97,3.61,Unsafe (pH too low)
+SENSOR_008,Unknown location,7.3,3.58,Safe
+SENSOR_004,Unknown location,7.71,3.48,Safe
+SENSOR_009,Unknown location,7.05,2.75,Safe
+SENSOR_007,Unknown location,6.67,4.8,Safe
+SENSOR_010,Unknown location,6.95,3.62,Safe
+SENSOR_010,Unknown location,8.11,2.57,Safe
+SENSOR_004,Unknown location,6.96,1.11,Safe
+SENSOR_002,Unknown location,7.25,3.0,Safe
+SENSOR_004,Unknown location,6.12,1.03,Unsafe (pH too low)
+SENSOR_011,Unknown location,6.53,1.86,Safe
+SENSOR_009,Unknown location,7.12,3.88,Safe
+SENSOR_015,Unknown location,7.21,1.85,Safe
+SENSOR_016,Unknown location,6.11,3.82,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.41,3.03,Safe
+SENSOR_010,Unknown location,7.87,3.44,Safe
+SENSOR_004,Unknown location,7.26,3.01,Safe
+SENSOR_004,Unknown location,5.99,3.29,Unsafe (pH too low)
+SENSOR_020,Unknown location,7.72,4.62,Safe
+SENSOR_001,Unknown location,6.42,1.45,Unsafe (pH too low)
+SENSOR_010,Unknown location,7.48,3.79,Safe
+SENSOR_018,Unknown location,6.36,4.99,Unsafe (pH too low)
+SENSOR_002,Unknown location,7.31,2.98,Safe
+SENSOR_020,Unknown location,6.41,1.17,Unsafe (pH too low)
+SENSOR_016,Unknown location,6.93,3.15,Safe
+SENSOR_007,Unknown location,5.97,3.15,Unsafe (pH too low)
+SENSOR_004,Unknown location,7.36,4.16,Safe
+SENSOR_008,Unknown location,6.99,3.68,Safe
+SENSOR_009,Unknown location,6.57,3.05,Safe
+SENSOR_006,Unknown location,7.16,4.1,Safe
+SENSOR_002,Unknown location,6.78,1.74,Safe
+SENSOR_013,Unknown location,6.95,2.36,Safe
+SENSOR_007,Unknown location,7.35,4.6,Safe
+SENSOR_004,Unknown location,7.5,3.16,Safe
+SENSOR_009,Unknown location,6.94,2.66,Safe
+SENSOR_011,Unknown location,6.82,2.64,Safe
+SENSOR_019,Unknown location,8.1,3.64,Safe
+SENSOR_009,Unknown location,6.3,3.11,Unsafe (pH too low)
+SENSOR_002,Unknown location,7.44,2.97,Safe
+SENSOR_009,Unknown location,8.06,4.08,Safe
+SENSOR_020,Unknown location,7.51,3.53,Safe
+SENSOR_004,Unknown location,7.8,5.32,Unsafe (turbidity too high)
+SENSOR_010,Unknown location,6.67,3.02,Safe
+SENSOR_016,Unknown location,6.93,3.4,Safe
+SENSOR_012,Unknown location,7.32,2.55,Safe
+SENSOR_005,Unknown location,7.01,1.85,Safe
+SENSOR_015,Unknown location,7.35,3.01,Safe
+SENSOR_003,Unknown location,6.38,3.61,Unsafe (pH too low)
+SENSOR_020,Unknown location,6.31,2.27,Unsafe (pH too low)
+SENSOR_004,Unknown location,7.21,4.75,Safe
+SENSOR_011,Unknown location,7.02,4.05,Safe
+SENSOR_019,Unknown location,7.32,3.23,Safe
+SENSOR_020,Unknown location,5.94,2.68,Unsafe (pH too low)
+SENSOR_001,Unknown location,6.78,2.52,Safe
+SENSOR_019,Unknown location,6.53,1.44,Safe
+SENSOR_016,Unknown location,6.77,2.0,Safe
+SENSOR_019,Unknown location,5.99,4.38,Unsafe (pH too low)
+SENSOR_020,Unknown location,7.48,3.03,Safe
+SENSOR_007,Unknown location,5.28,1.46,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.39,3.41,Safe
+SENSOR_007,Unknown location,7.28,3.76,Safe
+SENSOR_003,Unknown location,7.08,3.24,Safe
+SENSOR_001,Unknown location,6.82,2.98,Safe
+SENSOR_020,Unknown location,7.4,3.52,Safe
+SENSOR_017,Unknown location,6.82,4.19,Safe
+SENSOR_007,Unknown location,6.82,2.6,Safe
+SENSOR_002,Unknown location,6.35,4.04,Unsafe (pH too low)
+SENSOR_006,Unknown location,7.31,3.92,Safe
+SENSOR_013,Unknown location,6.25,3.69,Unsafe (pH too low)
+SENSOR_011,Unknown location,6.19,2.93,Unsafe (pH too low)
+SENSOR_010,Unknown location,6.43,4.72,Unsafe (pH too low)
+SENSOR_018,Unknown location,6.65,2.37,Safe
+SENSOR_018,Unknown location,7.79,3.35,Safe
+SENSOR_003,Unknown location,6.8,2.93,Safe
+SENSOR_017,Unknown location,7.74,2.09,Safe
+SENSOR_011,Unknown location,6.66,3.18,Safe
+SENSOR_020,Unknown location,6.81,3.58,Safe
+SENSOR_004,Unknown location,7.48,4.15,Safe
+SENSOR_013,Unknown location,7.43,1.78,Safe
+SENSOR_019,Unknown location,7.55,2.53,Safe
+SENSOR_010,Unknown location,7.03,3.42,Safe
+SENSOR_007,Unknown location,7.63,3.76,Safe
+SENSOR_020,Unknown location,7.02,3.79,Safe
+SENSOR_010,Unknown location,6.85,3.19,Safe
+SENSOR_004,Unknown location,7.23,2.88,Safe
+SENSOR_006,Unknown location,7.1,3.47,Safe
+SENSOR_009,Unknown location,6.79,2.35,Safe
+SENSOR_005,Unknown location,6.42,2.46,Unsafe (pH too low)
+SENSOR_010,Unknown location,6.41,4.25,Unsafe (pH too low)
+SENSOR_019,Unknown location,5.51,3.69,Unsafe (pH too low)
+SENSOR_008,Unknown location,7.38,3.67,Safe
+SENSOR_012,Unknown location,6.77,2.42,Safe
+SENSOR_017,Unknown location,7.45,2.85,Safe
+SENSOR_018,Unknown location,6.69,1.97,Safe
+SENSOR_015,Unknown location,6.34,4.01,Unsafe (pH too low)
+SENSOR_016,Unknown location,7.21,2.93,Safe
+SENSOR_014,Unknown location,6.37,1.36,Unsafe (pH too low)
+SENSOR_015,Unknown location,6.49,2.25,Unsafe (pH too low)
+SENSOR_008,Unknown location,6.93,4.06,Safe
+SENSOR_004,Unknown location,7.56,3.42,Safe
+SENSOR_008,Unknown location,7.21,4.66,Safe
+SENSOR_015,Unknown location,7.02,3.92,Safe
+SENSOR_010,Unknown location,6.73,1.96,Safe
+SENSOR_011,Unknown location,7.05,1.56,Safe
+SENSOR_009,Unknown location,6.84,4.18,Safe
+SENSOR_002,Unknown location,7.02,3.13,Safe
+SENSOR_008,Unknown location,5.97,3.28,Unsafe (pH too low)
+SENSOR_014,Unknown location,7.02,0.78,Safe
+SENSOR_012,Unknown location,6.42,1.82,Unsafe (pH too low)
+SENSOR_016,Unknown location,6.95,2.5,Safe
+SENSOR_002,Unknown location,6.81,3.84,Safe
+SENSOR_015,Unknown location,7.14,4.96,Safe
+SENSOR_001,Unknown location,7.12,2.01,Safe
+SENSOR_017,Unknown location,7.08,0.33,Safe
+SENSOR_015,Unknown location,7.12,2.09,Safe
+SENSOR_011,Unknown location,7.03,4.6,Safe
+SENSOR_004,Unknown location,6.84,3.69,Safe
+SENSOR_003,Unknown location,6.44,0.8,Unsafe (pH too low)
+SENSOR_006,Unknown location,7.7,2.63,Safe
+SENSOR_008,Unknown location,6.56,4.43,Safe
+SENSOR_005,Unknown location,7.78,2.06,Safe
+SENSOR_009,Unknown location,7.14,3.5,Safe
+SENSOR_016,Unknown location,6.9,2.1,Safe
+SENSOR_016,Unknown location,6.53,2.16,Safe
+SENSOR_013,Unknown location,7.86,3.55,Safe
+SENSOR_020,Unknown location,7.7,2.47,Safe
+SENSOR_019,Unknown location,6.03,3.5,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.52,4.21,Safe
+SENSOR_009,Unknown location,6.84,1.48,Safe
+SENSOR_008,Unknown location,7.16,2.15,Safe
+SENSOR_014,Unknown location,7.37,4.08,Safe
+SENSOR_012,Unknown location,6.97,3.74,Safe
+SENSOR_017,Unknown location,7.62,1.24,Safe
+SENSOR_014,Unknown location,6.94,4.34,Safe
+SENSOR_007,Unknown location,6.95,2.58,Safe
+SENSOR_012,Unknown location,7.01,0.41,Safe
+SENSOR_003,Unknown location,6.85,4.51,Safe
+SENSOR_016,Unknown location,7.15,3.42,Safe
+SENSOR_018,Unknown location,7.32,5.08,Unsafe (turbidity too high)
+SENSOR_002,Unknown location,7.05,2.63,Safe
+SENSOR_009,Unknown location,7.53,2.35,Safe
+SENSOR_020,Unknown location,7.31,1.46,Safe
+SENSOR_007,Unknown location,7.89,3.52,Safe
+SENSOR_012,Unknown location,7.09,2.62,Safe
+SENSOR_008,Unknown location,7.56,1.36,Safe
+SENSOR_004,Unknown location,7.21,4.67,Safe
+SENSOR_003,Unknown location,7.44,4.09,Safe
+SENSOR_018,Unknown location,6.56,2.85,Safe
+SENSOR_011,Unknown location,7.5,3.83,Safe
+SENSOR_012,Unknown location,7.06,3.61,Safe
+SENSOR_014,Unknown location,6.71,3.21,Safe
+SENSOR_019,Unknown location,7.04,3.62,Safe
+SENSOR_002,Unknown location,6.76,1.9,Safe
+SENSOR_015,Unknown location,7.65,3.26,Safe
+SENSOR_016,Unknown location,6.91,3.22,Safe
+SENSOR_002,Unknown location,7.5,2.38,Safe
+SENSOR_004,Unknown location,6.25,3.4,Unsafe (pH too low)
+SENSOR_015,Unknown location,7.18,2.32,Safe
+SENSOR_015,Unknown location,7.84,1.73,Safe
+SENSOR_014,Unknown location,6.32,3.47,Unsafe (pH too low)
+SENSOR_003,Unknown location,7.0,3.32,Safe
+SENSOR_009,Unknown location,6.92,4.16,Safe
+SENSOR_003,Unknown location,7.25,2.48,Safe
+SENSOR_003,Unknown location,6.5,2.18,Safe
+SENSOR_020,Unknown location,6.88,5.23,Unsafe (turbidity too high)
+SENSOR_011,Unknown location,6.05,3.26,Unsafe (pH too low)
+SENSOR_009,Unknown location,7.06,3.48,Safe
+SENSOR_014,Unknown location,7.27,1.29,Safe
+SENSOR_004,Unknown location,6.56,3.69,Safe
+SENSOR_012,Unknown location,6.63,2.61,Safe
+SENSOR_001,Unknown location,6.54,3.6,Safe
+SENSOR_002,Unknown location,7.23,2.95,Safe
+SENSOR_019,Unknown location,6.41,2.33,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.01,2.55,Safe
+SENSOR_018,Unknown location,6.82,1.7,Safe
+SENSOR_019,Unknown location,7.38,2.4,Safe
+SENSOR_006,Unknown location,7.85,1.62,Safe
+SENSOR_009,Unknown location,6.48,3.24,Unsafe (pH too low)
+SENSOR_011,Unknown location,7.11,3.2,Safe
+SENSOR_019,Unknown location,8.05,1.42,Safe
+SENSOR_013,Unknown location,7.08,2.58,Safe
+SENSOR_013,Unknown location,6.71,2.43,Safe
+SENSOR_017,Unknown location,7.03,3.37,Safe
+SENSOR_019,Unknown location,7.02,1.15,Safe
+SENSOR_009,Unknown location,8.21,3.45,Safe
+SENSOR_015,Unknown location,7.35,4.19,Safe
+SENSOR_007,Unknown location,6.76,2.58,Safe
+SENSOR_002,Unknown location,7.24,1.44,Safe
+SENSOR_002,Unknown location,7.11,3.31,Safe
+SENSOR_013,Unknown location,7.09,3.12,Safe
+SENSOR_013,Unknown location,6.82,3.21,Safe
+SENSOR_018,Unknown location,6.91,3.26,Safe
+SENSOR_018,Unknown location,7.84,2.67,Safe
+SENSOR_011,Unknown location,7.39,1.25,Safe
+SENSOR_016,Unknown location,6.79,3.45,Safe
+SENSOR_015,Unknown location,6.48,2.71,Unsafe (pH too low)
+SENSOR_020,Unknown location,6.63,3.88,Safe
+SENSOR_002,Unknown location,7.1,3.57,Safe
+SENSOR_009,Unknown location,7.43,-0.1,Safe
+SENSOR_009,Unknown location,7.06,3.53,Safe
+SENSOR_002,Unknown location,6.17,2.48,Unsafe (pH too low)
+SENSOR_015,Unknown location,7.37,3.86,Safe
+SENSOR_020,Unknown location,7.04,2.53,Safe
+SENSOR_014,Unknown location,6.95,3.75,Safe
+SENSOR_016,Unknown location,8.01,1.79,Safe
+SENSOR_020,Unknown location,6.32,3.33,Unsafe (pH too low)
+SENSOR_009,Unknown location,6.42,2.85,Unsafe (pH too low)
+SENSOR_013,Unknown location,6.7,4.59,Safe
+SENSOR_003,Unknown location,6.18,3.3,Unsafe (pH too low)
+SENSOR_006,Unknown location,7.73,2.75,Safe
+SENSOR_002,Unknown location,5.68,2.54,Unsafe (pH too low)
+SENSOR_011,Unknown location,6.51,2.48,Safe
+SENSOR_010,Unknown location,7.32,2.25,Safe
+SENSOR_013,Unknown location,7.6,3.33,Safe
+SENSOR_020,Unknown location,6.9,4.09,Safe
+SENSOR_010,Unknown location,7.21,3.67,Safe
+SENSOR_020,Unknown location,7.17,1.66,Safe
+SENSOR_018,Unknown location,7.26,3.6,Safe
+SENSOR_005,Unknown location,7.64,2.67,Safe
+SENSOR_017,Unknown location,7.14,2.72,Safe
+SENSOR_003,Unknown location,6.75,1.98,Safe
+SENSOR_015,Unknown location,6.91,1.39,Safe
+SENSOR_016,Unknown location,6.21,2.72,Unsafe (pH too low)
+SENSOR_015,Unknown location,7.02,3.09,Safe
+SENSOR_006,Unknown location,6.91,3.07,Safe
+SENSOR_002,Unknown location,7.24,2.9,Safe
+SENSOR_016,Unknown location,7.56,3.32,Safe
+SENSOR_013,Unknown location,7.48,2.76,Safe
+SENSOR_002,Unknown location,7.23,2.27,Safe
+SENSOR_007,Unknown location,6.64,3.69,Safe
+SENSOR_008,Unknown location,6.58,4.47,Safe
+SENSOR_006,Unknown location,6.61,3.06,Safe
+SENSOR_016,Unknown location,7.2,2.52,Safe
+SENSOR_001,Unknown location,7.46,1.91,Safe
+SENSOR_008,Unknown location,7.36,2.36,Safe
+SENSOR_008,Unknown location,7.03,4.46,Safe
+SENSOR_001,Unknown location,6.99,3.41,Safe
+SENSOR_014,Unknown location,7.36,3.38,Safe
+SENSOR_014,Unknown location,7.74,3.85,Safe
+SENSOR_014,Unknown location,7.19,4.15,Safe
+SENSOR_003,Unknown location,6.44,2.96,Unsafe (pH too low)
+SENSOR_018,Unknown location,7.06,4.36,Safe
+SENSOR_005,Unknown location,6.45,4.1,Unsafe (pH too low)
+SENSOR_009,Unknown location,6.54,2.02,Safe
+SENSOR_006,Unknown location,7.22,2.71,Safe
+SENSOR_010,Unknown location,6.97,2.98,Safe
+SENSOR_009,Unknown location,7.73,4.43,Safe
+SENSOR_001,Unknown location,7.87,2.84,Safe
+SENSOR_015,Unknown location,5.28,3.28,Unsafe (pH too low)
+SENSOR_003,Unknown location,6.21,4.02,Unsafe (pH too low)
+SENSOR_006,Unknown location,7.56,5.12,Unsafe (turbidity too high)
+SENSOR_014,Unknown location,6.12,2.58,Unsafe (pH too low)
+SENSOR_015,Unknown location,6.82,3.7,Safe
+SENSOR_014,Unknown location,7.23,2.44,Safe
+SENSOR_007,Unknown location,6.94,2.08,Safe
+SENSOR_006,Unknown location,5.72,2.3,Unsafe (pH too low)
+SENSOR_006,Unknown location,6.85,3.51,Safe
+SENSOR_006,Unknown location,7.53,2.18,Safe
+SENSOR_008,Unknown location,7.18,4.42,Safe
+SENSOR_015,Unknown location,6.65,4.1,Safe
+SENSOR_016,Unknown location,7.36,3.42,Safe
+SENSOR_006,Unknown location,7.08,1.28,Safe
+SENSOR_011,Unknown location,6.28,3.03,Unsafe (pH too low)
+SENSOR_014,Unknown location,6.94,2.92,Safe
+SENSOR_007,Unknown location,6.02,3.69,Unsafe (pH too low)
+SENSOR_010,Unknown location,7.37,3.77,Safe
+SENSOR_004,Unknown location,7.25,3.76,Safe
+SENSOR_020,Unknown location,6.74,3.06,Safe
+SENSOR_007,Unknown location,7.26,3.68,Safe
+SENSOR_007,Unknown location,6.8,3.0,Safe
+SENSOR_015,Unknown location,7.31,4.27,Safe
+SENSOR_007,Unknown location,7.94,4.52,Safe
+SENSOR_001,Unknown location,6.61,4.49,Safe
+SENSOR_018,Unknown location,6.82,4.11,Safe
+SENSOR_003,Unknown location,6.65,3.51,Safe
+SENSOR_018,Unknown location,6.45,0.34,Unsafe (pH too low)
+SENSOR_005,Unknown location,6.84,3.34,Safe
+SENSOR_012,Unknown location,7.05,3.63,Safe
+SENSOR_013,Unknown location,7.35,4.19,Safe
+SENSOR_002,Unknown location,6.35,0.43,Unsafe (pH too low)
+SENSOR_003,Unknown location,6.69,5.91,Unsafe (turbidity too high)
+SENSOR_011,Unknown location,8.46,3.41,Safe
+SENSOR_017,Unknown location,6.64,2.16,Safe
+SENSOR_018,Unknown location,6.48,3.16,Unsafe (pH too low)
+SENSOR_011,Unknown location,7.67,2.81,Safe
+SENSOR_002,Unknown location,6.95,3.0,Safe
+SENSOR_015,Unknown location,7.65,3.8,Safe
+SENSOR_013,Unknown location,6.93,2.57,Safe
+SENSOR_013,Unknown location,7.2,4.72,Safe
+SENSOR_007,Unknown location,7.16,2.09,Safe
+SENSOR_020,Unknown location,6.15,3.44,Unsafe (pH too low)
+SENSOR_013,Unknown location,6.17,2.98,Unsafe (pH too low)
+SENSOR_020,Unknown location,6.97,2.41,Safe
+SENSOR_013,Unknown location,7.39,2.17,Safe
+SENSOR_015,Unknown location,6.44,1.02,Unsafe (pH too low)
+SENSOR_001,Unknown location,6.3,1.5,Unsafe (pH too low)
+SENSOR_015,Unknown location,6.86,2.67,Safe
+SENSOR_014,Unknown location,5.84,3.28,Unsafe (pH too low)
+SENSOR_009,Unknown location,6.5,3.11,Safe
+SENSOR_009,Unknown location,7.65,3.18,Safe
+SENSOR_015,Unknown location,6.9,3.07,Safe
+SENSOR_013,Unknown location,7.54,2.8,Safe
+SENSOR_011,Unknown location,6.53,4.04,Safe
+SENSOR_016,Unknown location,7.2,2.17,Safe
+SENSOR_017,Unknown location,7.5,3.8,Safe
+SENSOR_012,Unknown location,7.71,2.55,Safe
+SENSOR_003,Unknown location,6.74,1.58,Safe
+SENSOR_001,Unknown location,6.12,3.21,Unsafe (pH too low)
+SENSOR_001,Unknown location,6.38,4.01,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.1,3.44,Safe
+SENSOR_019,Unknown location,6.83,3.63,Safe
+SENSOR_010,Unknown location,6.9,3.18,Safe
+SENSOR_003,Unknown location,6.71,3.64,Safe
+SENSOR_011,Unknown location,6.41,2.64,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.3,3.83,Safe
+SENSOR_004,Unknown location,6.73,3.99,Safe
+SENSOR_001,Unknown location,7.6,1.45,Safe
+SENSOR_004,Unknown location,7.1,2.88,Safe
+SENSOR_001,Unknown location,7.8,4.0,Safe
+SENSOR_005,Unknown location,7.68,3.83,Safe
+SENSOR_015,Unknown location,6.98,4.09,Safe
+SENSOR_001,Unknown location,6.81,4.14,Safe
+SENSOR_013,Unknown location,7.19,2.18,Safe
+SENSOR_019,Unknown location,6.99,3.91,Safe
+SENSOR_017,Unknown location,6.88,3.76,Safe
+SENSOR_020,Unknown location,7.65,2.7,Safe
+SENSOR_013,Unknown location,6.09,3.88,Unsafe (pH too low)
+SENSOR_007,Unknown location,6.83,3.64,Safe
+SENSOR_009,Unknown location,6.28,4.87,Unsafe (pH too low)
+SENSOR_006,Unknown location,6.7,3.35,Safe
+SENSOR_018,Unknown location,6.41,2.65,Unsafe (pH too low)
+SENSOR_002,Unknown location,7.43,2.15,Safe
+SENSOR_014,Unknown location,7.17,1.71,Safe
+SENSOR_002,Unknown location,7.2,2.57,Safe
+SENSOR_002,Unknown location,7.29,0.94,Safe
+SENSOR_020,Unknown location,6.85,4.31,Safe
+SENSOR_017,Unknown location,6.81,3.79,Safe
+SENSOR_020,Unknown location,7.03,3.55,Safe
+SENSOR_003,Unknown location,6.09,1.88,Unsafe (pH too low)
+SENSOR_013,Unknown location,6.82,1.16,Safe
+SENSOR_015,Unknown location,7.67,1.87,Safe
+SENSOR_004,Unknown location,6.64,3.98,Safe
+SENSOR_007,Unknown location,6.78,1.65,Safe
+SENSOR_016,Unknown location,6.96,2.45,Safe
+SENSOR_007,Unknown location,6.9,3.08,Safe
+SENSOR_010,Unknown location,7.91,3.92,Safe
+SENSOR_018,Unknown location,7.23,0.09,Safe
+SENSOR_007,Unknown location,7.02,2.3,Safe
+SENSOR_019,Unknown location,6.87,3.45,Safe
+SENSOR_008,Unknown location,7.18,1.26,Safe
+SENSOR_014,Unknown location,6.56,2.8,Safe
+SENSOR_013,Unknown location,7.13,3.61,Safe
+SENSOR_020,Unknown location,6.7,3.42,Safe
+SENSOR_009,Unknown location,6.94,3.75,Safe
+SENSOR_012,Unknown location,7.45,2.75,Safe
+SENSOR_007,Unknown location,6.51,3.21,Safe
+SENSOR_017,Unknown location,7.51,2.98,Safe
+SENSOR_006,Unknown location,7.49,2.86,Safe
+SENSOR_020,Unknown location,7.02,2.28,Safe
+SENSOR_012,Unknown location,7.27,3.88,Safe
+SENSOR_007,Unknown location,6.37,1.68,Unsafe (pH too low)
+SENSOR_007,Unknown location,7.04,2.07,Safe
+SENSOR_017,Unknown location,6.77,2.11,Safe
+SENSOR_002,Unknown location,7.52,2.57,Safe
+SENSOR_018,Unknown location,7.15,3.07,Safe
+SENSOR_007,Unknown location,7.02,4.5,Safe
+SENSOR_006,Unknown location,6.42,2.64,Unsafe (pH too low)
+SENSOR_001,Unknown location,7.13,4.72,Safe
+SENSOR_003,Unknown location,6.61,3.51,Safe
+SENSOR_018,Unknown location,6.99,3.77,Safe
+SENSOR_006,Unknown location,6.69,1.85,Safe
+SENSOR_004,Unknown location,7.24,2.82,Safe
+SENSOR_002,Unknown location,6.5,2.51,Safe
+SENSOR_015,Unknown location,7.55,2.46,Safe
+SENSOR_009,Unknown location,6.94,3.83,Safe
+SENSOR_016,Unknown location,6.96,2.52,Safe
+SENSOR_011,Unknown location,7.69,4.47,Safe
+SENSOR_005,Unknown location,7.47,0.65,Safe
+SENSOR_011,Unknown location,7.14,3.18,Safe
+SENSOR_015,Unknown location,6.77,3.66,Safe
+SENSOR_020,Unknown location,6.94,3.33,Safe
+SENSOR_016,Unknown location,7.01,2.93,Safe
+SENSOR_011,Unknown location,6.63,3.02,Safe
+SENSOR_017,Unknown location,6.96,3.49,Safe
+SENSOR_011,Unknown location,6.79,3.49,Safe
+SENSOR_018,Unknown location,7.74,3.68,Safe
+SENSOR_008,Unknown location,6.8,2.72,Safe
+SENSOR_016,Unknown location,7.04,4.81,Safe
+SENSOR_005,Unknown location,6.75,2.79,Safe
+SENSOR_017,Unknown location,6.66,1.34,Safe
+SENSOR_016,Unknown location,5.5,4.23,Unsafe (pH too low)
+SENSOR_004,Unknown location,7.39,3.0,Safe
+SENSOR_008,Unknown location,6.89,2.98,Safe
+SENSOR_008,Unknown location,7.51,0.78,Safe
+SENSOR_011,Unknown location,6.96,3.8,Safe
+SENSOR_020,Unknown location,6.52,2.17,Safe
+SENSOR_020,Unknown location,7.06,1.75,Safe
+SENSOR_011,Unknown location,7.33,2.12,Safe
+SENSOR_017,Unknown location,7.57,3.26,Safe
+SENSOR_014,Unknown location,7.2,2.89,Safe
+SENSOR_006,Unknown location,7.03,1.18,Safe
+SENSOR_004,Unknown location,7.33,4.52,Safe
+SENSOR_001,Unknown location,6.14,3.57,Unsafe (pH too low)
+SENSOR_012,Unknown location,6.53,2.48,Safe
+SENSOR_001,Unknown location,8.04,2.99,Safe
+SENSOR_018,Unknown location,6.41,2.99,Unsafe (pH too low)
+SENSOR_008,Unknown location,6.59,2.66,Safe
+SENSOR_020,Unknown location,6.13,4.55,Unsafe (pH too low)
+SENSOR_013,Unknown location,7.74,2.43,Safe
+SENSOR_003,Unknown location,6.68,2.26,Safe
+SENSOR_005,Unknown location,7.7,4.55,Safe
+SENSOR_012,Unknown location,6.92,3.5,Safe
+SENSOR_005,Unknown location,6.83,1.68,Safe
+SENSOR_009,Unknown location,6.59,4.5,Safe
+SENSOR_008,Unknown location,7.82,2.54,Safe
+SENSOR_014,Unknown location,7.07,3.11,Safe
+SENSOR_006,Unknown location,6.65,3.4,Safe
+SENSOR_001,Unknown location,6.7,3.63,Safe
+SENSOR_012,Unknown location,7.03,4.1,Safe
+SENSOR_001,Unknown location,6.59,3.7,Safe
+SENSOR_010,Unknown location,7.17,3.12,Safe
+SENSOR_008,Unknown location,7.23,1.18,Safe
+SENSOR_007,Unknown location,5.99,2.57,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.0,2.8,Safe
+SENSOR_011,Unknown location,7.36,2.99,Safe
+SENSOR_006,Unknown location,7.4,1.98,Safe
+SENSOR_019,Unknown location,7.81,4.16,Safe
+SENSOR_009,Unknown location,7.17,2.6,Safe
+SENSOR_020,Unknown location,7.0,2.36,Safe
+SENSOR_016,Unknown location,7.48,2.83,Safe
+SENSOR_009,Unknown location,7.02,4.16,Safe
+SENSOR_003,Unknown location,5.77,3.7,Unsafe (pH too low)
+SENSOR_001,Unknown location,7.06,4.48,Safe
+SENSOR_011,Unknown location,7.26,4.27,Safe
+SENSOR_019,Unknown location,7.41,3.73,Safe
+SENSOR_020,Unknown location,6.98,3.37,Safe
+SENSOR_007,Unknown location,7.83,2.43,Safe
+SENSOR_015,Unknown location,7.97,2.94,Safe
+SENSOR_002,Unknown location,5.86,4.02,Unsafe (pH too low)
+SENSOR_010,Unknown location,7.02,3.55,Safe
+SENSOR_016,Unknown location,7.39,3.19,Safe
+SENSOR_015,Unknown location,7.55,4.02,Safe
+SENSOR_004,Unknown location,6.19,2.25,Unsafe (pH too low)
+SENSOR_002,Unknown location,7.78,2.26,Safe
+SENSOR_012,Unknown location,6.63,4.32,Safe
+SENSOR_010,Unknown location,6.09,2.83,Unsafe (pH too low)
+SENSOR_005,Unknown location,7.51,3.88,Safe
+SENSOR_004,Unknown location,7.03,1.73,Safe
+SENSOR_020,Unknown location,7.1,3.87,Safe
+SENSOR_005,Unknown location,7.2,3.13,Safe
+SENSOR_016,Unknown location,7.49,3.58,Safe
+SENSOR_004,Unknown location,7.3,2.11,Safe
+SENSOR_010,Unknown location,7.38,3.66,Safe
+SENSOR_003,Unknown location,7.21,3.41,Safe
+SENSOR_020,Unknown location,7.28,3.1,Safe
+SENSOR_007,Unknown location,6.53,4.01,Safe
+SENSOR_015,Unknown location,7.07,2.45,Safe
+SENSOR_011,Unknown location,6.38,2.88,Unsafe (pH too low)
+SENSOR_003,Unknown location,6.46,4.58,Unsafe (pH too low)
+SENSOR_007,Unknown location,7.32,5.02,Unsafe (turbidity too high)
+SENSOR_007,Unknown location,7.22,3.06,Safe
+SENSOR_004,Unknown location,7.21,4.12,Safe
+SENSOR_015,Unknown location,6.97,4.62,Safe
+SENSOR_017,Unknown location,7.33,2.82,Safe
+SENSOR_003,Unknown location,7.18,4.02,Safe
+SENSOR_011,Unknown location,7.42,3.04,Safe
+SENSOR_016,Unknown location,6.58,2.06,Safe
+SENSOR_001,Unknown location,6.53,1.62,Safe
+SENSOR_003,Unknown location,6.5,2.42,Safe
+SENSOR_001,Unknown location,7.84,1.67,Safe
+SENSOR_009,Unknown location,7.16,1.69,Safe
+SENSOR_009,Unknown location,6.64,5.77,Unsafe (turbidity too high)
+SENSOR_003,Unknown location,7.46,2.81,Safe
+SENSOR_019,Unknown location,7.59,3.22,Safe
+SENSOR_009,Unknown location,7.04,1.8,Safe
+SENSOR_003,Unknown location,6.15,4.26,Unsafe (pH too low)
+SENSOR_015,Unknown location,6.17,3.82,Unsafe (pH too low)
+SENSOR_006,Unknown location,6.6,3.07,Safe
+SENSOR_013,Unknown location,6.28,1.96,Unsafe (pH too low)
+SENSOR_003,Unknown location,7.61,2.21,Safe
+SENSOR_002,Unknown location,5.58,0.61,Unsafe (pH too low)
+SENSOR_014,Unknown location,6.57,2.79,Safe
+SENSOR_011,Unknown location,7.45,1.63,Safe
+SENSOR_012,Unknown location,6.75,2.93,Safe
+SENSOR_012,Unknown location,7.65,2.67,Safe
+SENSOR_018,Unknown location,7.37,0.79,Safe
+SENSOR_009,Unknown location,7.16,1.87,Safe
+SENSOR_005,Unknown location,6.78,3.36,Safe
+SENSOR_008,Unknown location,6.63,3.79,Safe
+SENSOR_005,Unknown location,7.91,3.23,Safe
+SENSOR_006,Unknown location,7.09,4.04,Safe
+SENSOR_016,Unknown location,6.94,2.95,Safe
+SENSOR_013,Unknown location,7.56,2.92,Safe
+SENSOR_009,Unknown location,6.07,1.75,Unsafe (pH too low)
+SENSOR_019,Unknown location,6.7,3.84,Safe
+SENSOR_002,Unknown location,7.09,3.62,Safe
+SENSOR_005,Unknown location,7.0,0.94,Safe
+SENSOR_005,Unknown location,6.63,2.89,Safe
+SENSOR_019,Unknown location,7.07,6.81,Unsafe (turbidity too high)
+SENSOR_013,Unknown location,6.79,0.7,Safe
+SENSOR_018,Unknown location,7.18,2.52,Safe
+SENSOR_017,Unknown location,7.15,0.85,Safe
+SENSOR_014,Unknown location,7.59,2.95,Safe
+SENSOR_012,Unknown location,7.04,2.92,Safe
+SENSOR_020,Unknown location,7.67,2.99,Safe
+SENSOR_018,Unknown location,5.77,3.81,Unsafe (pH too low)
+SENSOR_004,Unknown location,6.37,4.84,Unsafe (pH too low)
+SENSOR_004,Unknown location,7.56,2.74,Safe
+SENSOR_013,Unknown location,7.36,4.64,Safe
+SENSOR_010,Unknown location,7.53,2.31,Safe
+SENSOR_018,Unknown location,6.96,1.75,Safe
+SENSOR_016,Unknown location,6.44,3.15,Unsafe (pH too low)
+SENSOR_018,Unknown location,7.44,4.46,Safe
+SENSOR_011,Unknown location,6.64,3.65,Safe
+SENSOR_013,Unknown location,6.75,3.31,Safe
+SENSOR_013,Unknown location,7.25,1.76,Safe
+SENSOR_008,Unknown location,6.82,2.66,Safe
+SENSOR_005,Unknown location,7.4,3.72,Safe
+SENSOR_018,Unknown location,7.27,2.41,Safe
+SENSOR_018,Unknown location,7.6,4.26,Safe
+SENSOR_009,Unknown location,8.27,3.14,Safe
+SENSOR_008,Unknown location,6.79,0.98,Safe
+SENSOR_003,Unknown location,6.82,4.01,Safe
+SENSOR_009,Unknown location,7.15,4.09,Safe
+SENSOR_011,Unknown location,7.49,2.69,Safe
+SENSOR_011,Unknown location,7.09,1.54,Safe
+SENSOR_019,Unknown location,6.64,2.01,Safe
+SENSOR_016,Unknown location,7.44,1.19,Safe
+SENSOR_013,Unknown location,6.8,3.79,Safe
+SENSOR_003,Unknown location,8.03,3.97,Safe
+SENSOR_014,Unknown location,7.65,2.73,Safe
+SENSOR_002,Unknown location,6.73,2.23,Safe
+SENSOR_011,Unknown location,6.89,4.58,Safe
+SENSOR_013,Unknown location,6.9,3.03,Safe
+SENSOR_001,Unknown location,7.02,3.87,Safe
+SENSOR_016,Unknown location,7.78,3.36,Safe
+SENSOR_004,Unknown location,7.4,3.75,Safe
+SENSOR_011,Unknown location,7.46,3.21,Safe
+SENSOR_012,Unknown location,6.92,4.35,Safe
+SENSOR_009,Unknown location,7.66,3.09,Safe
+SENSOR_010,Unknown location,6.75,1.19,Safe
+SENSOR_004,Unknown location,6.85,1.85,Safe
+SENSOR_006,Unknown location,7.49,2.08,Safe
+SENSOR_006,Unknown location,7.35,3.45,Safe
+SENSOR_002,Unknown location,7.7,2.62,Safe
+SENSOR_013,Unknown location,7.43,2.69,Safe
+SENSOR_017,Unknown location,7.79,3.09,Safe
+SENSOR_011,Unknown location,6.81,3.39,Safe
+SENSOR_011,Unknown location,7.21,4.09,Safe
+SENSOR_007,Unknown location,5.87,3.54,Unsafe (pH too low)
+SENSOR_016,Unknown location,7.48,0.38,Safe
+SENSOR_003,Unknown location,6.12,4.4,Unsafe (pH too low)
+SENSOR_019,Unknown location,7.65,3.17,Safe
+SENSOR_008,Unknown location,7.15,2.96,Safe
+SENSOR_016,Unknown location,6.93,1.84,Safe
+SENSOR_004,Unknown location,7.06,3.72,Safe
+SENSOR_005,Unknown location,6.77,2.18,Safe
+SENSOR_014,Unknown location,7.11,2.97,Safe
+SENSOR_016,Unknown location,7.08,2.84,Safe
+SENSOR_016,Unknown location,7.24,4.75,Safe
+SENSOR_011,Unknown location,6.49,3.37,Unsafe (pH too low)
+SENSOR_008,Unknown location,7.71,3.22,Safe
+SENSOR_004,Unknown location,5.98,1.42,Unsafe (pH too low)
+SENSOR_003,Unknown location,7.68,2.24,Safe
+SENSOR_019,Unknown location,7.58,2.94,Safe
+SENSOR_003,Unknown location,6.99,2.52,Safe
+SENSOR_008,Unknown location,7.23,2.83,Safe
+SENSOR_014,Unknown location,6.68,0.79,Safe
+SENSOR_012,Unknown location,6.63,1.81,Safe
+SENSOR_016,Unknown location,7.76,2.34,Safe
+SENSOR_004,Unknown location,6.9,3.84,Safe
+SENSOR_010,Unknown location,8.12,4.26,Safe
+SENSOR_009,Unknown location,7.04,3.15,Safe
+SENSOR_009,Unknown location,7.27,4.22,Safe
+SENSOR_012,Unknown location,7.14,3.32,Safe
+SENSOR_001,Unknown location,7.7,2.53,Safe
+SENSOR_001,Unknown location,7.13,1.94,Safe
+SENSOR_019,Unknown location,7.88,4.31,Safe
+SENSOR_020,Unknown location,6.65,4.24,Safe
+SENSOR_002,Unknown location,7.48,3.43,Safe
+SENSOR_019,Unknown location,7.27,2.54,Safe
+SENSOR_007,Unknown location,6.68,2.08,Safe
+SENSOR_004,Unknown location,7.13,4.49,Safe
+SENSOR_014,Unknown location,6.68,3.62,Safe
+SENSOR_005,Unknown location,6.06,2.89,Unsafe (pH too low)
+SENSOR_002,Unknown location,6.81,2.18,Safe
+SENSOR_002,Unknown location,6.96,2.01,Safe
+SENSOR_017,Unknown location,6.9,6.34,Unsafe (turbidity too high)
+SENSOR_018,Unknown location,7.34,2.44,Safe
+SENSOR_007,Unknown location,7.41,2.75,Safe
+SENSOR_008,Unknown location,7.1,3.97,Safe
+SENSOR_009,Unknown location,7.22,1.92,Safe
+SENSOR_008,Unknown location,6.46,2.14,Unsafe (pH too low)
+SENSOR_019,Unknown location,7.19,0.98,Safe
+SENSOR_007,Unknown location,7.6,3.47,Safe
+SENSOR_009,Unknown location,6.68,1.35,Safe
+SENSOR_016,Unknown location,7.06,2.3,Safe
+SENSOR_018,Unknown location,7.12,1.97,Safe
+SENSOR_006,Unknown location,6.92,1.96,Safe
+SENSOR_018,Unknown location,7.15,2.56,Safe
+SENSOR_001,Unknown location,7.9,2.47,Safe
+SENSOR_002,Unknown location,7.94,3.76,Safe
+SENSOR_017,Unknown location,6.65,3.56,Safe
+SENSOR_002,Unknown location,7.59,3.38,Safe
+SENSOR_006,Unknown location,7.11,2.65,Safe
+SENSOR_020,Unknown location,7.68,2.51,Safe
+SENSOR_016,Unknown location,7.1,2.42,Safe
+SENSOR_020,Unknown location,7.06,2.6,Safe
+SENSOR_006,Unknown location,6.23,4.33,Unsafe (pH too low)
+SENSOR_014,Unknown location,7.12,2.25,Safe
+SENSOR_015,Unknown location,6.46,2.98,Unsafe (pH too low)
+SENSOR_003,Unknown location,7.26,3.36,Safe
+SENSOR_014,Unknown location,6.71,3.18,Safe
+SENSOR_013,Unknown location,7.36,1.16,Safe
+SENSOR_002,Unknown location,6.43,2.17,Unsafe (pH too low)
+SENSOR_008,Unknown location,7.02,1.61,Safe
+SENSOR_004,Unknown location,6.28,1.93,Unsafe (pH too low)
+SENSOR_015,Unknown location,6.89,4.09,Safe
+SENSOR_003,Unknown location,6.89,2.81,Safe
+SENSOR_011,Unknown location,6.84,3.27,Safe
+SENSOR_013,Unknown location,7.26,4.01,Safe
+SENSOR_016,Unknown location,7.33,4.0,Safe
+SENSOR_002,Unknown location,7.16,1.67,Safe
+SENSOR_012,Unknown location,6.55,4.07,Safe
+SENSOR_016,Unknown location,8.03,3.18,Safe
+SENSOR_001,Unknown location,6.8,2.61,Safe
+SENSOR_017,Unknown location,8.38,3.18,Safe
+SENSOR_020,Unknown location,7.0,3.6,Safe
+SENSOR_017,Unknown location,7.34,2.42,Safe
+SENSOR_020,Unknown location,7.05,3.06,Safe
+SENSOR_015,Unknown location,7.44,2.99,Safe
+SENSOR_014,Unknown location,6.49,4.41,Unsafe (pH too low)
+SENSOR_016,Unknown location,6.74,1.65,Safe
+SENSOR_014,Unknown location,7.79,2.48,Safe
+SENSOR_012,Unknown location,6.1,4.57,Unsafe (pH too low)
+SENSOR_008,Unknown location,8.24,2.61,Safe
+SENSOR_014,Unknown location,7.3,5.63,Unsafe (turbidity too high)
+SENSOR_012,Unknown location,7.7,2.07,Safe
+SENSOR_019,Unknown location,7.33,2.91,Safe
+SENSOR_004,Unknown location,7.42,0.27,Safe
+SENSOR_010,Unknown location,7.57,1.39,Safe
+SENSOR_001,Unknown location,7.11,1.31,Safe
+SENSOR_010,Unknown location,7.45,1.62,Safe
+SENSOR_020,Unknown location,6.6,3.89,Safe
+SENSOR_001,Unknown location,6.77,2.73,Safe
+SENSOR_008,Unknown location,6.81,1.75,Safe
+SENSOR_015,Unknown location,7.22,2.55,Safe
+SENSOR_001,Unknown location,7.1,2.06,Safe
+SENSOR_003,Unknown location,7.53,2.44,Safe
+SENSOR_018,Unknown location,6.54,3.0,Safe
+SENSOR_010,Unknown location,7.01,3.22,Safe
+SENSOR_017,Unknown location,6.28,3.4,Unsafe (pH too low)
+SENSOR_020,Unknown location,6.2,2.15,Unsafe (pH too low)
+SENSOR_006,Unknown location,6.03,3.9,Unsafe (pH too low)
+SENSOR_010,Unknown location,7.35,4.12,Safe
+SENSOR_017,Unknown location,6.65,3.69,Safe
+SENSOR_011,Unknown location,6.72,1.98,Safe
+SENSOR_013,Unknown location,6.75,3.05,Safe
+SENSOR_014,Unknown location,6.34,2.71,Unsafe (pH too low)
+SENSOR_019,Unknown location,7.04,2.01,Safe
+SENSOR_005,Unknown location,6.77,3.79,Safe
+SENSOR_007,Unknown location,6.84,4.03,Safe
+SENSOR_012,Unknown location,6.8,2.56,Safe
+SENSOR_019,Unknown location,6.55,4.38,Safe
+SENSOR_014,Unknown location,6.82,2.43,Safe
+SENSOR_004,Unknown location,7.05,2.08,Safe
+SENSOR_001,Unknown location,7.04,2.26,Safe
+SENSOR_013,Unknown location,7.24,3.91,Safe
+SENSOR_019,Unknown location,6.22,4.07,Unsafe (pH too low)
+SENSOR_012,Unknown location,6.71,3.33,Safe
+SENSOR_005,Unknown location,7.16,2.51,Safe
+SENSOR_007,Unknown location,6.97,1.7,Safe
+SENSOR_012,Unknown location,7.46,3.65,Safe
+SENSOR_007,Unknown location,6.91,2.98,Safe
+SENSOR_009,Unknown location,7.21,1.72,Safe
+SENSOR_020,Unknown location,7.13,4.7,Safe
+SENSOR_019,Unknown location,6.87,2.43,Safe
+SENSOR_010,Unknown location,7.31,1.76,Safe
+SENSOR_003,Unknown location,7.25,2.03,Safe
+SENSOR_010,Unknown location,6.77,2.47,Safe
+SENSOR_002,Unknown location,6.65,3.87,Safe
+SENSOR_010,Unknown location,6.49,1.78,Unsafe (pH too low)
+SENSOR_014,Unknown location,7.07,3.37,Safe
+SENSOR_002,Unknown location,6.44,3.23,Unsafe (pH too low)
+SENSOR_012,Unknown location,7.03,3.51,Safe
+SENSOR_001,Unknown location,7.47,2.61,Safe
+SENSOR_019,Unknown location,6.82,3.65,Safe
+SENSOR_007,Unknown location,6.61,3.12,Safe
+SENSOR_019,Unknown location,6.89,2.62,Safe
+SENSOR_002,Unknown location,6.73,3.36,Safe
+SENSOR_007,Unknown location,6.68,1.55,Safe
+SENSOR_020,Unknown location,6.86,2.95,Safe
