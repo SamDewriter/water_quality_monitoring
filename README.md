@@ -27,7 +27,7 @@ cd Water_Quality_Monitoring
 2. **Create a virtual environment and install dependencies**  
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate   #git-bash on windows: source venv/scripts/activate
 pip install -r requirements.txt
 ```
 
