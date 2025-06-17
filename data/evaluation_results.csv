@@ -1,0 +1,1001 @@
+Location,Status,Reason
+Sensor 1 at Lake 1,Unsafe,"pH too low, turbidity too high"
+Sensor 2 at Lake 2,Unsafe,turbidity too high
+Sensor 3 at Lake 3,Unsafe,turbidity too high
+Sensor 4 at Lake 4,Unsafe,turbidity too high
+Sensor 5 at Lake 5,Unsafe,turbidity too high
+Sensor 6 at Lake 6,Unsafe,turbidity too high
+Sensor 7 at Lake 7,Unsafe,turbidity too high
+Sensor 8 at Lake 8,Unsafe,turbidity too high
+Sensor 9 at Lake 9,Unsafe,turbidity too high
+Sensor 10 at Lake 10,Unsafe,turbidity too high
+Sensor 11 at Lake 11,Unsafe,turbidity too high
+Sensor 12 at Lake 12,Unsafe,turbidity too high
+Sensor 13 at Lake 13,Unsafe,turbidity too high
+Sensor 14 at Lake 14,Unsafe,turbidity too high
+Sensor 15 at Lake 15,Unsafe,turbidity too high
+Sensor 16 at Lake 16,Unsafe,turbidity too high
+Sensor 17 at Lake 17,Unsafe,turbidity too high
+Sensor 18 at Lake 18,Unsafe,turbidity too high
+Sensor 19 at Lake 19,Unsafe,turbidity too high
+Sensor 20 at Lake 20,Unsafe,turbidity too high
+Sensor 21 at Lake 21,Unsafe,turbidity too high
+Sensor 22 at Lake 22,Unsafe,turbidity too high
+Sensor 23 at Lake 23,Unsafe,turbidity too high
+Sensor 24 at Lake 24,Unsafe,turbidity too high
+Sensor 25 at Lake 25,Unsafe,turbidity too high
+Sensor 26 at Lake 26,Unsafe,turbidity too high
+Sensor 27 at Lake 27,Unsafe,turbidity too high
+Sensor 28 at Lake 28,Unsafe,turbidity too high
+Sensor 29 at Lake 29,Unsafe,turbidity too high
+Sensor 30 at Lake 30,Unsafe,turbidity too high
+Sensor 31 at Lake 31,Unsafe,turbidity too high
+Sensor 32 at Lake 32,Unsafe,"pH too low, turbidity too high"
+Sensor 33 at Lake 33,Unsafe,turbidity too high
+Sensor 34 at Lake 34,Unsafe,turbidity too high
+Sensor 35 at Lake 35,Unsafe,"pH too low, turbidity too high"
+Sensor 36 at Lake 36,Unsafe,turbidity too high
+Sensor 37 at Lake 37,Unsafe,turbidity too high
+Sensor 38 at Lake 38,Unsafe,turbidity too high
+Sensor 39 at Lake 39,Unsafe,turbidity too high
+Sensor 40 at Lake 40,Unsafe,turbidity too high
+Sensor 41 at Lake 41,Unsafe,turbidity too high
+Sensor 42 at Lake 42,Unsafe,turbidity too high
+Sensor 43 at Lake 43,Unsafe,turbidity too high
+Sensor 44 at Lake 44,Unsafe,turbidity too high
+Sensor 45 at Lake 45,Unsafe,turbidity too high
+Sensor 46 at Lake 46,Unsafe,"pH too low, turbidity too high"
+Sensor 47 at Lake 47,Safe,
+Sensor 48 at Lake 48,Safe,
+Sensor 49 at Lake 49,Unsafe,"pH too low, turbidity too high"
+Sensor 50 at Lake 50,Unsafe,turbidity too high
+Sensor 51 at Lake 51,Unsafe,turbidity too high
+Sensor 52 at Lake 52,Unsafe,turbidity too high
+Sensor 53 at Lake 53,Unsafe,turbidity too high
+Sensor 54 at Lake 54,Unsafe,turbidity too high
+Sensor 55 at Lake 55,Unsafe,turbidity too high
+Sensor 56 at Lake 56,Unsafe,"pH too low, turbidity too high"
+Sensor 57 at Lake 57,Unsafe,"pH too low, turbidity too high"
+Sensor 58 at Lake 58,Unsafe,turbidity too high
+Sensor 59 at Lake 59,Unsafe,turbidity too high
+Sensor 60 at Lake 60,Unsafe,turbidity too high
+Sensor 61 at Lake 61,Unsafe,"pH too low, turbidity too high"
+Sensor 62 at Lake 62,Unsafe,turbidity too high
+Sensor 63 at Lake 63,Unsafe,turbidity too high
+Sensor 64 at Lake 64,Unsafe,turbidity too high
+Sensor 65 at Lake 65,Unsafe,turbidity too high
+Sensor 66 at Lake 66,Unsafe,"pH too low, turbidity too high"
+Sensor 67 at Lake 67,Unsafe,turbidity too high
+Sensor 68 at Lake 68,Unsafe,turbidity too high
+Sensor 69 at Lake 69,Unsafe,turbidity too high
+Sensor 70 at Lake 70,Unsafe,"pH too low, turbidity too high"
+Sensor 71 at Lake 71,Unsafe,turbidity too high
+Sensor 72 at Lake 72,Unsafe,turbidity too high
+Sensor 73 at Lake 73,Unsafe,turbidity too high
+Sensor 74 at Lake 74,Unsafe,turbidity too high
+Sensor 75 at Lake 75,Unsafe,turbidity too high
+Sensor 76 at Lake 76,Unsafe,"pH too low, turbidity too high"
+Sensor 77 at Lake 77,Unsafe,turbidity too high
+Sensor 78 at Lake 78,Unsafe,turbidity too high
+Sensor 79 at Lake 79,Unsafe,turbidity too high
+Sensor 80 at Lake 80,Unsafe,"pH too low, turbidity too high"
+Sensor 81 at Lake 81,Unsafe,"pH too low, turbidity too high"
+Sensor 82 at Lake 82,Unsafe,turbidity too high
+Sensor 83 at Lake 83,Unsafe,turbidity too high
+Sensor 84 at Lake 84,Unsafe,turbidity too high
+Sensor 85 at Lake 85,Unsafe,"pH too low, turbidity too high"
+Sensor 86 at Lake 86,Unsafe,turbidity too high
+Sensor 87 at Lake 87,Unsafe,turbidity too high
+Sensor 88 at Lake 88,Unsafe,turbidity too high
+Sensor 89 at Lake 89,Unsafe,turbidity too high
+Sensor 90 at Lake 90,Unsafe,turbidity too high
+Sensor 91 at Lake 91,Unsafe,turbidity too high
+Sensor 92 at Lake 92,Unsafe,"pH too low, turbidity too high"
+Sensor 93 at Lake 93,Safe,
+Sensor 94 at Lake 94,Unsafe,turbidity too high
+Sensor 95 at Lake 95,Unsafe,turbidity too high
+Sensor 96 at Lake 96,Unsafe,turbidity too high
+Sensor 97 at Lake 97,Unsafe,turbidity too high
+Sensor 98 at Lake 98,Unsafe,turbidity too high
+Sensor 99 at Lake 99,Unsafe,turbidity too high
+Sensor 100 at Lake 100,Unsafe,turbidity too high
+Sensor 101 at Lake 101,Unsafe,turbidity too high
+Sensor 102 at Lake 102,Unsafe,turbidity too high
+Sensor 103 at Lake 103,Unsafe,turbidity too high
+Sensor 104 at Lake 104,Unsafe,"pH too low, turbidity too high"
+Sensor 105 at Lake 105,Unsafe,turbidity too high
+Sensor 106 at Lake 106,Unsafe,"pH too low, turbidity too high"
+Sensor 107 at Lake 107,Unsafe,turbidity too high
+Sensor 108 at Lake 108,Unsafe,turbidity too high
+Sensor 109 at Lake 109,Unsafe,"pH too low, turbidity too high"
+Sensor 110 at Lake 110,Unsafe,turbidity too high
+Sensor 111 at Lake 111,Unsafe,turbidity too high
+Sensor 112 at Lake 112,Unsafe,turbidity too high
+Sensor 113 at Lake 113,Unsafe,"pH too low, turbidity too high"
+Sensor 114 at Lake 114,Unsafe,turbidity too high
+Sensor 115 at Lake 115,Safe,
+Sensor 116 at Lake 116,Unsafe,turbidity too high
+Sensor 117 at Lake 117,Unsafe,turbidity too high
+Sensor 118 at Lake 118,Unsafe,turbidity too high
+Sensor 119 at Lake 119,Unsafe,turbidity too high
+Sensor 120 at Lake 120,Unsafe,turbidity too high
+Sensor 121 at Lake 121,Unsafe,turbidity too high
+Sensor 122 at Lake 122,Unsafe,"pH too low, turbidity too high"
+Sensor 123 at Lake 123,Unsafe,"pH too low, turbidity too high"
+Sensor 124 at Lake 124,Unsafe,turbidity too high
+Sensor 125 at Lake 125,Unsafe,"pH too low, turbidity too high"
+Sensor 126 at Lake 126,Unsafe,turbidity too high
+Sensor 127 at Lake 127,Unsafe,turbidity too high
+Sensor 128 at Lake 128,Unsafe,turbidity too high
+Sensor 129 at Lake 129,Unsafe,turbidity too high
+Sensor 130 at Lake 130,Unsafe,turbidity too high
+Sensor 131 at Lake 131,Unsafe,"pH too low, turbidity too high"
+Sensor 132 at Lake 132,Unsafe,turbidity too high
+Sensor 133 at Lake 133,Unsafe,turbidity too high
+Sensor 134 at Lake 134,Unsafe,turbidity too high
+Sensor 135 at Lake 135,Unsafe,turbidity too high
+Sensor 136 at Lake 136,Unsafe,turbidity too high
+Sensor 137 at Lake 137,Unsafe,turbidity too high
+Sensor 138 at Lake 138,Unsafe,turbidity too high
+Sensor 139 at Lake 139,Unsafe,turbidity too high
+Sensor 140 at Lake 140,Unsafe,turbidity too high
+Sensor 141 at Lake 141,Unsafe,turbidity too high
+Sensor 142 at Lake 142,Unsafe,turbidity too high
+Sensor 143 at Lake 143,Unsafe,turbidity too high
+Sensor 144 at Lake 144,Unsafe,turbidity too high
+Sensor 145 at Lake 145,Unsafe,turbidity too high
+Sensor 146 at Lake 146,Unsafe,turbidity too high
+Sensor 147 at Lake 147,Unsafe,turbidity too high
+Sensor 148 at Lake 148,Unsafe,turbidity too high
+Sensor 149 at Lake 149,Unsafe,turbidity too high
+Sensor 150 at Lake 150,Unsafe,"pH too low, turbidity too high"
+Sensor 151 at Lake 151,Unsafe,turbidity too high
+Sensor 152 at Lake 152,Unsafe,turbidity too high
+Sensor 153 at Lake 153,Unsafe,turbidity too high
+Sensor 154 at Lake 154,Unsafe,turbidity too high
+Sensor 155 at Lake 155,Unsafe,turbidity too high
+Sensor 156 at Lake 156,Unsafe,turbidity too high
+Sensor 157 at Lake 157,Unsafe,turbidity too high
+Sensor 158 at Lake 158,Unsafe,turbidity too high
+Sensor 159 at Lake 159,Unsafe,turbidity too high
+Sensor 160 at Lake 160,Unsafe,turbidity too high
+Sensor 161 at Lake 161,Unsafe,turbidity too high
+Sensor 162 at Lake 162,Unsafe,turbidity too high
+Sensor 163 at Lake 163,Unsafe,turbidity too high
+Sensor 164 at Lake 164,Unsafe,turbidity too high
+Sensor 165 at Lake 165,Unsafe,turbidity too high
+Sensor 166 at Lake 166,Unsafe,turbidity too high
+Sensor 167 at Lake 167,Unsafe,"pH too low, turbidity too high"
+Sensor 168 at Lake 168,Unsafe,turbidity too high
+Sensor 169 at Lake 169,Unsafe,turbidity too high
+Sensor 170 at Lake 170,Unsafe,turbidity too high
+Sensor 171 at Lake 171,Unsafe,turbidity too high
+Sensor 172 at Lake 172,Unsafe,turbidity too high
+Sensor 173 at Lake 173,Unsafe,turbidity too high
+Sensor 174 at Lake 174,Unsafe,turbidity too high
+Sensor 175 at Lake 175,Unsafe,"pH too low, turbidity too high"
+Sensor 176 at Lake 176,Unsafe,turbidity too high
+Sensor 177 at Lake 177,Unsafe,turbidity too high
+Sensor 178 at Lake 178,Unsafe,turbidity too high
+Sensor 179 at Lake 179,Unsafe,turbidity too high
+Sensor 180 at Lake 180,Unsafe,turbidity too high
+Sensor 181 at Lake 181,Unsafe,"pH too low, turbidity too high"
+Sensor 182 at Lake 182,Unsafe,turbidity too high
+Sensor 183 at Lake 183,Unsafe,turbidity too high
+Sensor 184 at Lake 184,Unsafe,turbidity too high
+Sensor 185 at Lake 185,Unsafe,turbidity too high
+Sensor 186 at Lake 186,Unsafe,turbidity too high
+Sensor 187 at Lake 187,Unsafe,turbidity too high
+Sensor 188 at Lake 188,Unsafe,"pH too low, turbidity too high"
+Sensor 189 at Lake 189,Unsafe,turbidity too high
+Sensor 190 at Lake 190,Unsafe,turbidity too high
+Sensor 191 at Lake 191,Unsafe,turbidity too high
+Sensor 192 at Lake 192,Unsafe,turbidity too high
+Sensor 193 at Lake 193,Unsafe,turbidity too high
+Sensor 194 at Lake 194,Unsafe,"pH too low, turbidity too high"
+Sensor 195 at Lake 195,Unsafe,turbidity too high
+Sensor 196 at Lake 196,Unsafe,turbidity too high
+Sensor 197 at Lake 197,Unsafe,turbidity too high
+Sensor 198 at Lake 198,Unsafe,"pH too low, turbidity too high"
+Sensor 199 at Lake 199,Unsafe,"pH too low, turbidity too high"
+Sensor 200 at Lake 200,Unsafe,turbidity too high
+Sensor 201 at Lake 201,Unsafe,"pH too low, turbidity too high"
+Sensor 202 at Lake 202,Unsafe,turbidity too high
+Sensor 203 at Lake 203,Unsafe,"pH too low, turbidity too high"
+Sensor 204 at Lake 204,Unsafe,turbidity too high
+Sensor 205 at Lake 205,Unsafe,turbidity too high
+Sensor 206 at Lake 206,Unsafe,turbidity too high
+Sensor 207 at Lake 207,Unsafe,turbidity too high
+Sensor 208 at Lake 208,Unsafe,turbidity too high
+Sensor 209 at Lake 209,Unsafe,turbidity too high
+Sensor 210 at Lake 210,Unsafe,"pH too low, turbidity too high"
+Sensor 211 at Lake 211,Unsafe,turbidity too high
+Sensor 212 at Lake 212,Unsafe,turbidity too high
+Sensor 213 at Lake 213,Unsafe,"pH too low, turbidity too high"
+Sensor 214 at Lake 214,Unsafe,turbidity too high
+Sensor 215 at Lake 215,Unsafe,turbidity too high
+Sensor 216 at Lake 216,Unsafe,turbidity too high
+Sensor 217 at Lake 217,Unsafe,turbidity too high
+Sensor 218 at Lake 218,Unsafe,turbidity too high
+Sensor 219 at Lake 219,Unsafe,turbidity too high
+Sensor 220 at Lake 220,Unsafe,turbidity too high
+Sensor 221 at Lake 221,Unsafe,turbidity too high
+Sensor 222 at Lake 222,Unsafe,"pH too low, turbidity too high"
+Sensor 223 at Lake 223,Unsafe,turbidity too high
+Sensor 224 at Lake 224,Unsafe,turbidity too high
+Sensor 225 at Lake 225,Unsafe,turbidity too high
+Sensor 226 at Lake 226,Unsafe,"pH too low, turbidity too high"
+Sensor 227 at Lake 227,Unsafe,turbidity too high
+Sensor 228 at Lake 228,Unsafe,turbidity too high
+Sensor 229 at Lake 229,Unsafe,turbidity too high
+Sensor 230 at Lake 230,Unsafe,turbidity too high
+Sensor 231 at Lake 231,Unsafe,turbidity too high
+Sensor 232 at Lake 232,Unsafe,turbidity too high
+Sensor 233 at Lake 233,Unsafe,turbidity too high
+Sensor 234 at Lake 234,Unsafe,"pH too low, turbidity too high"
+Sensor 235 at Lake 235,Unsafe,turbidity too high
+Sensor 236 at Lake 236,Unsafe,"pH too low, turbidity too high"
+Sensor 237 at Lake 237,Unsafe,turbidity too high
+Sensor 238 at Lake 238,Unsafe,turbidity too high
+Sensor 239 at Lake 239,Unsafe,turbidity too high
+Sensor 240 at Lake 240,Unsafe,turbidity too high
+Sensor 241 at Lake 241,Safe,
+Sensor 242 at Lake 242,Unsafe,turbidity too high
+Sensor 243 at Lake 243,Unsafe,turbidity too high
+Sensor 244 at Lake 244,Unsafe,"pH too low, turbidity too high"
+Sensor 245 at Lake 245,Unsafe,turbidity too high
+Sensor 246 at Lake 246,Unsafe,turbidity too high
+Sensor 247 at Lake 247,Unsafe,turbidity too high
+Sensor 248 at Lake 248,Unsafe,turbidity too high
+Sensor 249 at Lake 249,Unsafe,turbidity too high
+Sensor 250 at Lake 250,Unsafe,turbidity too high
+Sensor 251 at Lake 251,Unsafe,turbidity too high
+Sensor 252 at Lake 252,Unsafe,turbidity too high
+Sensor 253 at Lake 253,Unsafe,turbidity too high
+Sensor 254 at Lake 254,Unsafe,turbidity too high
+Sensor 255 at Lake 255,Unsafe,"pH too low, turbidity too high"
+Sensor 256 at Lake 256,Unsafe,turbidity too high
+Sensor 257 at Lake 257,Unsafe,turbidity too high
+Sensor 258 at Lake 258,Unsafe,turbidity too high
+Sensor 259 at Lake 259,Unsafe,turbidity too high
+Sensor 260 at Lake 260,Unsafe,turbidity too high
+Sensor 261 at Lake 261,Unsafe,turbidity too high
+Sensor 262 at Lake 262,Unsafe,turbidity too high
+Sensor 263 at Lake 263,Unsafe,turbidity too high
+Sensor 264 at Lake 264,Unsafe,turbidity too high
+Sensor 265 at Lake 265,Unsafe,turbidity too high
+Sensor 266 at Lake 266,Unsafe,turbidity too high
+Sensor 267 at Lake 267,Unsafe,turbidity too high
+Sensor 268 at Lake 268,Unsafe,turbidity too high
+Sensor 269 at Lake 269,Unsafe,turbidity too high
+Sensor 270 at Lake 270,Unsafe,turbidity too high
+Sensor 271 at Lake 271,Unsafe,turbidity too high
+Sensor 272 at Lake 272,Unsafe,"pH too low, turbidity too high"
+Sensor 273 at Lake 273,Unsafe,turbidity too high
+Sensor 274 at Lake 274,Unsafe,turbidity too high
+Sensor 275 at Lake 275,Unsafe,turbidity too high
+Sensor 276 at Lake 276,Unsafe,turbidity too high
+Sensor 277 at Lake 277,Unsafe,turbidity too high
+Sensor 278 at Lake 278,Unsafe,turbidity too high
+Sensor 279 at Lake 279,Unsafe,turbidity too high
+Sensor 280 at Lake 280,Unsafe,turbidity too high
+Sensor 281 at Lake 281,Unsafe,turbidity too high
+Sensor 282 at Lake 282,Unsafe,turbidity too high
+Sensor 283 at Lake 283,Unsafe,turbidity too high
+Sensor 284 at Lake 284,Unsafe,turbidity too high
+Sensor 285 at Lake 285,Unsafe,turbidity too high
+Sensor 286 at Lake 286,Unsafe,turbidity too high
+Sensor 287 at Lake 287,Safe,
+Sensor 288 at Lake 288,Unsafe,turbidity too high
+Sensor 289 at Lake 289,Unsafe,turbidity too high
+Sensor 290 at Lake 290,Unsafe,turbidity too high
+Sensor 291 at Lake 291,Unsafe,turbidity too high
+Sensor 292 at Lake 292,Unsafe,turbidity too high
+Sensor 293 at Lake 293,Unsafe,turbidity too high
+Sensor 294 at Lake 294,Unsafe,turbidity too high
+Sensor 295 at Lake 295,Unsafe,turbidity too high
+Sensor 296 at Lake 296,Unsafe,turbidity too high
+Sensor 297 at Lake 297,Unsafe,turbidity too high
+Sensor 298 at Lake 298,Unsafe,"pH too low, turbidity too high"
+Sensor 299 at Lake 299,Unsafe,turbidity too high
+Sensor 300 at Lake 300,Unsafe,"pH too low, turbidity too high"
+Sensor 301 at Lake 301,Unsafe,turbidity too high
+Sensor 302 at Lake 302,Unsafe,turbidity too high
+Sensor 303 at Lake 303,Unsafe,turbidity too high
+Sensor 304 at Lake 304,Unsafe,"pH too low, turbidity too high"
+Sensor 305 at Lake 305,Unsafe,turbidity too high
+Sensor 306 at Lake 306,Unsafe,turbidity too high
+Sensor 307 at Lake 307,Unsafe,turbidity too high
+Sensor 308 at Lake 308,Unsafe,turbidity too high
+Sensor 309 at Lake 309,Unsafe,"pH too low, turbidity too high"
+Sensor 310 at Lake 310,Unsafe,turbidity too high
+Sensor 311 at Lake 311,Unsafe,turbidity too high
+Sensor 312 at Lake 312,Unsafe,turbidity too high
+Sensor 313 at Lake 313,Unsafe,turbidity too high
+Sensor 314 at Lake 314,Unsafe,turbidity too high
+Sensor 315 at Lake 315,Unsafe,turbidity too high
+Sensor 316 at Lake 316,Unsafe,turbidity too high
+Sensor 317 at Lake 317,Unsafe,turbidity too high
+Sensor 318 at Lake 318,Unsafe,"pH too low, turbidity too high"
+Sensor 319 at Lake 319,Unsafe,turbidity too high
+Sensor 320 at Lake 320,Unsafe,turbidity too high
+Sensor 321 at Lake 321,Unsafe,turbidity too high
+Sensor 322 at Lake 322,Unsafe,"pH too low, turbidity too high"
+Sensor 323 at Lake 323,Unsafe,turbidity too high
+Sensor 324 at Lake 324,Unsafe,turbidity too high
+Sensor 325 at Lake 325,Unsafe,turbidity too high
+Sensor 326 at Lake 326,Unsafe,"pH too low, turbidity too high"
+Sensor 327 at Lake 327,Unsafe,turbidity too high
+Sensor 328 at Lake 328,Unsafe,"pH too low, turbidity too high"
+Sensor 329 at Lake 329,Unsafe,turbidity too high
+Sensor 330 at Lake 330,Unsafe,"pH too low, turbidity too high"
+Sensor 331 at Lake 331,Unsafe,turbidity too high
+Sensor 332 at Lake 332,Unsafe,"pH too low, turbidity too high"
+Sensor 333 at Lake 333,Unsafe,turbidity too high
+Sensor 334 at Lake 334,Unsafe,"pH too low, turbidity too high"
+Sensor 335 at Lake 335,Unsafe,turbidity too high
+Sensor 336 at Lake 336,Unsafe,turbidity too high
+Sensor 337 at Lake 337,Unsafe,turbidity too high
+Sensor 338 at Lake 338,Unsafe,turbidity too high
+Sensor 339 at Lake 339,Unsafe,turbidity too high
+Sensor 340 at Lake 340,Unsafe,turbidity too high
+Sensor 341 at Lake 341,Unsafe,turbidity too high
+Sensor 342 at Lake 342,Unsafe,turbidity too high
+Sensor 343 at Lake 343,Unsafe,turbidity too high
+Sensor 344 at Lake 344,Unsafe,turbidity too high
+Sensor 345 at Lake 345,Unsafe,turbidity too high
+Sensor 346 at Lake 346,Unsafe,"pH too low, turbidity too high"
+Sensor 347 at Lake 347,Unsafe,turbidity too high
+Sensor 348 at Lake 348,Unsafe,turbidity too high
+Sensor 349 at Lake 349,Unsafe,turbidity too high
+Sensor 350 at Lake 350,Unsafe,turbidity too high
+Sensor 351 at Lake 351,Unsafe,turbidity too high
+Sensor 352 at Lake 352,Unsafe,turbidity too high
+Sensor 353 at Lake 353,Unsafe,turbidity too high
+Sensor 354 at Lake 354,Unsafe,turbidity too high
+Sensor 355 at Lake 355,Unsafe,turbidity too high
+Sensor 356 at Lake 356,Unsafe,"pH too low, turbidity too high"
+Sensor 357 at Lake 357,Unsafe,"pH too low, turbidity too high"
+Sensor 358 at Lake 358,Unsafe,turbidity too high
+Sensor 359 at Lake 359,Unsafe,turbidity too high
+Sensor 360 at Lake 360,Unsafe,turbidity too high
+Sensor 361 at Lake 361,Unsafe,"pH too low, turbidity too high"
+Sensor 362 at Lake 362,Unsafe,turbidity too high
+Sensor 363 at Lake 363,Unsafe,turbidity too high
+Sensor 364 at Lake 364,Unsafe,turbidity too high
+Sensor 365 at Lake 365,Unsafe,"pH too low, turbidity too high"
+Sensor 366 at Lake 366,Unsafe,turbidity too high
+Sensor 367 at Lake 367,Unsafe,"pH too low, turbidity too high"
+Sensor 368 at Lake 368,Unsafe,turbidity too high
+Sensor 369 at Lake 369,Unsafe,turbidity too high
+Sensor 370 at Lake 370,Unsafe,turbidity too high
+Sensor 371 at Lake 371,Unsafe,turbidity too high
+Sensor 372 at Lake 372,Unsafe,turbidity too high
+Sensor 373 at Lake 373,Unsafe,turbidity too high
+Sensor 374 at Lake 374,Unsafe,turbidity too high
+Sensor 375 at Lake 375,Unsafe,"pH too low, turbidity too high"
+Sensor 376 at Lake 376,Unsafe,turbidity too high
+Sensor 377 at Lake 377,Unsafe,"pH too low, turbidity too high"
+Sensor 378 at Lake 378,Unsafe,"pH too low, turbidity too high"
+Sensor 379 at Lake 379,Unsafe,"pH too low, turbidity too high"
+Sensor 380 at Lake 380,Unsafe,turbidity too high
+Sensor 381 at Lake 381,Unsafe,turbidity too high
+Sensor 382 at Lake 382,Unsafe,turbidity too high
+Sensor 383 at Lake 383,Unsafe,turbidity too high
+Sensor 384 at Lake 384,Unsafe,turbidity too high
+Sensor 385 at Lake 385,Unsafe,turbidity too high
+Sensor 386 at Lake 386,Unsafe,turbidity too high
+Sensor 387 at Lake 387,Unsafe,turbidity too high
+Sensor 388 at Lake 388,Unsafe,turbidity too high
+Sensor 389 at Lake 389,Unsafe,turbidity too high
+Sensor 390 at Lake 390,Unsafe,turbidity too high
+Sensor 391 at Lake 391,Unsafe,turbidity too high
+Sensor 392 at Lake 392,Unsafe,turbidity too high
+Sensor 393 at Lake 393,Unsafe,turbidity too high
+Sensor 394 at Lake 394,Unsafe,turbidity too high
+Sensor 395 at Lake 395,Unsafe,turbidity too high
+Sensor 396 at Lake 396,Unsafe,"pH too low, turbidity too high"
+Sensor 397 at Lake 397,Unsafe,"pH too low, turbidity too high"
+Sensor 398 at Lake 398,Unsafe,"pH too low, turbidity too high"
+Sensor 399 at Lake 399,Unsafe,turbidity too high
+Sensor 400 at Lake 400,Unsafe,turbidity too high
+Sensor 401 at Lake 401,Unsafe,turbidity too high
+Sensor 402 at Lake 402,Unsafe,turbidity too high
+Sensor 403 at Lake 403,Unsafe,"pH too low, turbidity too high"
+Sensor 404 at Lake 404,Unsafe,turbidity too high
+Sensor 405 at Lake 405,Unsafe,"pH too low, turbidity too high"
+Sensor 406 at Lake 406,Unsafe,"pH too low, turbidity too high"
+Sensor 407 at Lake 407,Unsafe,turbidity too high
+Sensor 408 at Lake 408,Unsafe,turbidity too high
+Sensor 409 at Lake 409,Unsafe,turbidity too high
+Sensor 410 at Lake 410,Unsafe,turbidity too high
+Sensor 411 at Lake 411,Unsafe,turbidity too high
+Sensor 412 at Lake 412,Unsafe,turbidity too high
+Sensor 413 at Lake 413,Unsafe,turbidity too high
+Sensor 414 at Lake 414,Unsafe,turbidity too high
+Sensor 415 at Lake 415,Unsafe,"pH too low, turbidity too high"
+Sensor 416 at Lake 416,Safe,
+Sensor 417 at Lake 417,Unsafe,"pH too low, turbidity too high"
+Sensor 418 at Lake 418,Unsafe,turbidity too high
+Sensor 419 at Lake 419,Unsafe,turbidity too high
+Sensor 420 at Lake 420,Unsafe,turbidity too high
+Sensor 421 at Lake 421,Unsafe,turbidity too high
+Sensor 422 at Lake 422,Safe,
+Sensor 423 at Lake 423,Unsafe,turbidity too high
+Sensor 424 at Lake 424,Unsafe,turbidity too high
+Sensor 425 at Lake 425,Unsafe,turbidity too high
+Sensor 426 at Lake 426,Unsafe,pH too low
+Sensor 427 at Lake 427,Unsafe,turbidity too high
+Sensor 428 at Lake 428,Unsafe,turbidity too high
+Sensor 429 at Lake 429,Unsafe,turbidity too high
+Sensor 430 at Lake 430,Unsafe,turbidity too high
+Sensor 431 at Lake 431,Unsafe,turbidity too high
+Sensor 432 at Lake 432,Unsafe,turbidity too high
+Sensor 433 at Lake 433,Unsafe,turbidity too high
+Sensor 434 at Lake 434,Unsafe,turbidity too high
+Sensor 435 at Lake 435,Unsafe,"pH too low, turbidity too high"
+Sensor 436 at Lake 436,Unsafe,turbidity too high
+Sensor 437 at Lake 437,Unsafe,turbidity too high
+Sensor 438 at Lake 438,Unsafe,turbidity too high
+Sensor 439 at Lake 439,Unsafe,turbidity too high
+Sensor 440 at Lake 440,Unsafe,turbidity too high
+Sensor 441 at Lake 441,Unsafe,turbidity too high
+Sensor 442 at Lake 442,Unsafe,turbidity too high
+Sensor 443 at Lake 443,Unsafe,turbidity too high
+Sensor 444 at Lake 444,Safe,
+Sensor 445 at Lake 445,Unsafe,turbidity too high
+Sensor 446 at Lake 446,Unsafe,turbidity too high
+Sensor 447 at Lake 447,Unsafe,turbidity too high
+Sensor 448 at Lake 448,Unsafe,turbidity too high
+Sensor 449 at Lake 449,Unsafe,turbidity too high
+Sensor 450 at Lake 450,Unsafe,turbidity too high
+Sensor 451 at Lake 451,Unsafe,turbidity too high
+Sensor 452 at Lake 452,Unsafe,turbidity too high
+Sensor 453 at Lake 453,Unsafe,turbidity too high
+Sensor 454 at Lake 454,Unsafe,turbidity too high
+Sensor 455 at Lake 455,Unsafe,turbidity too high
+Sensor 456 at Lake 456,Unsafe,turbidity too high
+Sensor 457 at Lake 457,Unsafe,turbidity too high
+Sensor 458 at Lake 458,Unsafe,turbidity too high
+Sensor 459 at Lake 459,Unsafe,turbidity too high
+Sensor 460 at Lake 460,Unsafe,turbidity too high
+Sensor 461 at Lake 461,Unsafe,turbidity too high
+Sensor 462 at Lake 462,Unsafe,turbidity too high
+Sensor 463 at Lake 463,Unsafe,turbidity too high
+Sensor 464 at Lake 464,Unsafe,turbidity too high
+Sensor 465 at Lake 465,Unsafe,"pH too low, turbidity too high"
+Sensor 466 at Lake 466,Unsafe,turbidity too high
+Sensor 467 at Lake 467,Unsafe,turbidity too high
+Sensor 468 at Lake 468,Unsafe,"pH too low, turbidity too high"
+Sensor 469 at Lake 469,Unsafe,turbidity too high
+Sensor 470 at Lake 470,Unsafe,turbidity too high
+Sensor 471 at Lake 471,Unsafe,turbidity too high
+Sensor 472 at Lake 472,Unsafe,turbidity too high
+Sensor 473 at Lake 473,Unsafe,turbidity too high
+Sensor 474 at Lake 474,Unsafe,"pH too low, turbidity too high"
+Sensor 475 at Lake 475,Unsafe,turbidity too high
+Sensor 476 at Lake 476,Unsafe,turbidity too high
+Sensor 477 at Lake 477,Unsafe,turbidity too high
+Sensor 478 at Lake 478,Unsafe,turbidity too high
+Sensor 479 at Lake 479,Unsafe,turbidity too high
+Sensor 480 at Lake 480,Unsafe,turbidity too high
+Sensor 481 at Lake 481,Unsafe,"pH too low, turbidity too high"
+Sensor 482 at Lake 482,Unsafe,turbidity too high
+Sensor 483 at Lake 483,Unsafe,turbidity too high
+Sensor 484 at Lake 484,Unsafe,turbidity too high
+Sensor 485 at Lake 485,Unsafe,turbidity too high
+Sensor 486 at Lake 486,Unsafe,"pH too low, turbidity too high"
+Sensor 487 at Lake 487,Unsafe,turbidity too high
+Sensor 488 at Lake 488,Unsafe,turbidity too high
+Sensor 489 at Lake 489,Unsafe,turbidity too high
+Sensor 490 at Lake 490,Unsafe,turbidity too high
+Sensor 491 at Lake 491,Unsafe,turbidity too high
+Sensor 492 at Lake 492,Unsafe,turbidity too high
+Sensor 493 at Lake 493,Unsafe,turbidity too high
+Sensor 494 at Lake 494,Unsafe,turbidity too high
+Sensor 495 at Lake 495,Unsafe,turbidity too high
+Sensor 496 at Lake 496,Unsafe,turbidity too high
+Sensor 497 at Lake 497,Unsafe,turbidity too high
+Sensor 498 at Lake 498,Unsafe,turbidity too high
+Sensor 499 at Lake 499,Unsafe,turbidity too high
+Sensor 500 at Lake 500,Unsafe,turbidity too high
+Sensor 501 at Lake 501,Unsafe,turbidity too high
+Sensor 502 at Lake 502,Unsafe,turbidity too high
+Sensor 503 at Lake 503,Unsafe,turbidity too high
+Sensor 504 at Lake 504,Unsafe,"pH too low, turbidity too high"
+Sensor 505 at Lake 505,Unsafe,turbidity too high
+Sensor 506 at Lake 506,Unsafe,turbidity too high
+Sensor 507 at Lake 507,Safe,
+Sensor 508 at Lake 508,Unsafe,turbidity too high
+Sensor 509 at Lake 509,Unsafe,"pH too low, turbidity too high"
+Sensor 510 at Lake 510,Unsafe,turbidity too high
+Sensor 511 at Lake 511,Unsafe,turbidity too high
+Sensor 512 at Lake 512,Unsafe,turbidity too high
+Sensor 513 at Lake 513,Unsafe,turbidity too high
+Sensor 514 at Lake 514,Unsafe,"pH too low, turbidity too high"
+Sensor 515 at Lake 515,Unsafe,"pH too low, turbidity too high"
+Sensor 516 at Lake 516,Unsafe,turbidity too high
+Sensor 517 at Lake 517,Unsafe,"pH too low, turbidity too high"
+Sensor 518 at Lake 518,Unsafe,turbidity too high
+Sensor 519 at Lake 519,Unsafe,"pH too low, turbidity too high"
+Sensor 520 at Lake 520,Unsafe,turbidity too high
+Sensor 521 at Lake 521,Unsafe,turbidity too high
+Sensor 522 at Lake 522,Unsafe,turbidity too high
+Sensor 523 at Lake 523,Unsafe,turbidity too high
+Sensor 524 at Lake 524,Unsafe,turbidity too high
+Sensor 525 at Lake 525,Unsafe,turbidity too high
+Sensor 526 at Lake 526,Unsafe,turbidity too high
+Sensor 527 at Lake 527,Unsafe,turbidity too high
+Sensor 528 at Lake 528,Unsafe,turbidity too high
+Sensor 529 at Lake 529,Unsafe,turbidity too high
+Sensor 530 at Lake 530,Unsafe,turbidity too high
+Sensor 531 at Lake 531,Unsafe,"pH too low, turbidity too high"
+Sensor 532 at Lake 532,Unsafe,turbidity too high
+Sensor 533 at Lake 533,Unsafe,turbidity too high
+Sensor 534 at Lake 534,Unsafe,turbidity too high
+Sensor 535 at Lake 535,Unsafe,turbidity too high
+Sensor 536 at Lake 536,Unsafe,turbidity too high
+Sensor 537 at Lake 537,Unsafe,turbidity too high
+Sensor 538 at Lake 538,Unsafe,turbidity too high
+Sensor 539 at Lake 539,Unsafe,turbidity too high
+Sensor 540 at Lake 540,Unsafe,turbidity too high
+Sensor 541 at Lake 541,Unsafe,turbidity too high
+Sensor 542 at Lake 542,Unsafe,turbidity too high
+Sensor 543 at Lake 543,Unsafe,turbidity too high
+Sensor 544 at Lake 544,Unsafe,turbidity too high
+Sensor 545 at Lake 545,Unsafe,turbidity too high
+Sensor 546 at Lake 546,Unsafe,turbidity too high
+Sensor 547 at Lake 547,Unsafe,turbidity too high
+Sensor 548 at Lake 548,Unsafe,turbidity too high
+Sensor 549 at Lake 549,Unsafe,"pH too low, turbidity too high"
+Sensor 550 at Lake 550,Unsafe,turbidity too high
+Sensor 551 at Lake 551,Unsafe,"pH too low, turbidity too high"
+Sensor 552 at Lake 552,Unsafe,turbidity too high
+Sensor 553 at Lake 553,Unsafe,turbidity too high
+Sensor 554 at Lake 554,Unsafe,turbidity too high
+Sensor 555 at Lake 555,Unsafe,turbidity too high
+Sensor 556 at Lake 556,Unsafe,turbidity too high
+Sensor 557 at Lake 557,Unsafe,"pH too low, turbidity too high"
+Sensor 558 at Lake 558,Unsafe,"pH too low, turbidity too high"
+Sensor 559 at Lake 559,Unsafe,turbidity too high
+Sensor 560 at Lake 560,Unsafe,"pH too low, turbidity too high"
+Sensor 561 at Lake 561,Unsafe,turbidity too high
+Sensor 562 at Lake 562,Unsafe,turbidity too high
+Sensor 563 at Lake 563,Unsafe,turbidity too high
+Sensor 564 at Lake 564,Unsafe,"pH too low, turbidity too high"
+Sensor 565 at Lake 565,Unsafe,turbidity too high
+Sensor 566 at Lake 566,Unsafe,turbidity too high
+Sensor 567 at Lake 567,Unsafe,turbidity too high
+Sensor 568 at Lake 568,Unsafe,turbidity too high
+Sensor 569 at Lake 569,Unsafe,turbidity too high
+Sensor 570 at Lake 570,Unsafe,turbidity too high
+Sensor 571 at Lake 571,Unsafe,"pH too low, turbidity too high"
+Sensor 572 at Lake 572,Unsafe,turbidity too high
+Sensor 573 at Lake 573,Unsafe,"pH too low, turbidity too high"
+Sensor 574 at Lake 574,Unsafe,turbidity too high
+Sensor 575 at Lake 575,Unsafe,turbidity too high
+Sensor 576 at Lake 576,Unsafe,turbidity too high
+Sensor 577 at Lake 577,Unsafe,turbidity too high
+Sensor 578 at Lake 578,Unsafe,turbidity too high
+Sensor 579 at Lake 579,Unsafe,turbidity too high
+Sensor 580 at Lake 580,Unsafe,turbidity too high
+Sensor 581 at Lake 581,Unsafe,turbidity too high
+Sensor 582 at Lake 582,Unsafe,turbidity too high
+Sensor 583 at Lake 583,Unsafe,turbidity too high
+Sensor 584 at Lake 584,Unsafe,pH too low
+Sensor 585 at Lake 585,Unsafe,turbidity too high
+Sensor 586 at Lake 586,Unsafe,turbidity too high
+Sensor 587 at Lake 587,Unsafe,turbidity too high
+Sensor 588 at Lake 588,Unsafe,pH too low
+Sensor 589 at Lake 589,Unsafe,turbidity too high
+Sensor 590 at Lake 590,Unsafe,turbidity too high
+Sensor 591 at Lake 591,Unsafe,turbidity too high
+Sensor 592 at Lake 592,Unsafe,"pH too low, turbidity too high"
+Sensor 593 at Lake 593,Unsafe,turbidity too high
+Sensor 594 at Lake 594,Unsafe,turbidity too high
+Sensor 595 at Lake 595,Unsafe,turbidity too high
+Sensor 596 at Lake 596,Unsafe,turbidity too high
+Sensor 597 at Lake 597,Unsafe,turbidity too high
+Sensor 598 at Lake 598,Unsafe,turbidity too high
+Sensor 599 at Lake 599,Unsafe,"pH too low, turbidity too high"
+Sensor 600 at Lake 600,Unsafe,"pH too low, turbidity too high"
+Sensor 601 at Lake 601,Unsafe,turbidity too high
+Sensor 602 at Lake 602,Unsafe,turbidity too high
+Sensor 603 at Lake 603,Unsafe,"pH too low, turbidity too high"
+Sensor 604 at Lake 604,Unsafe,"pH too low, turbidity too high"
+Sensor 605 at Lake 605,Unsafe,turbidity too high
+Sensor 606 at Lake 606,Unsafe,"pH too low, turbidity too high"
+Sensor 607 at Lake 607,Unsafe,turbidity too high
+Sensor 608 at Lake 608,Unsafe,turbidity too high
+Sensor 609 at Lake 609,Unsafe,turbidity too high
+Sensor 610 at Lake 610,Unsafe,turbidity too high
+Sensor 611 at Lake 611,Unsafe,turbidity too high
+Sensor 612 at Lake 612,Unsafe,turbidity too high
+Sensor 613 at Lake 613,Unsafe,turbidity too high
+Sensor 614 at Lake 614,Unsafe,turbidity too high
+Sensor 615 at Lake 615,Unsafe,turbidity too high
+Sensor 616 at Lake 616,Unsafe,"pH too low, turbidity too high"
+Sensor 617 at Lake 617,Unsafe,"pH too low, turbidity too high"
+Sensor 618 at Lake 618,Unsafe,turbidity too high
+Sensor 619 at Lake 619,Unsafe,turbidity too high
+Sensor 620 at Lake 620,Unsafe,turbidity too high
+Sensor 621 at Lake 621,Unsafe,turbidity too high
+Sensor 622 at Lake 622,Unsafe,"pH too low, turbidity too high"
+Sensor 623 at Lake 623,Unsafe,turbidity too high
+Sensor 624 at Lake 624,Unsafe,turbidity too high
+Sensor 625 at Lake 625,Unsafe,turbidity too high
+Sensor 626 at Lake 626,Unsafe,turbidity too high
+Sensor 627 at Lake 627,Unsafe,turbidity too high
+Sensor 628 at Lake 628,Unsafe,turbidity too high
+Sensor 629 at Lake 629,Unsafe,turbidity too high
+Sensor 630 at Lake 630,Unsafe,turbidity too high
+Sensor 631 at Lake 631,Unsafe,turbidity too high
+Sensor 632 at Lake 632,Unsafe,turbidity too high
+Sensor 633 at Lake 633,Unsafe,turbidity too high
+Sensor 634 at Lake 634,Unsafe,turbidity too high
+Sensor 635 at Lake 635,Unsafe,"pH too low, turbidity too high"
+Sensor 636 at Lake 636,Unsafe,turbidity too high
+Sensor 637 at Lake 637,Unsafe,"pH too low, turbidity too high"
+Sensor 638 at Lake 638,Unsafe,turbidity too high
+Sensor 639 at Lake 639,Unsafe,"pH too low, turbidity too high"
+Sensor 640 at Lake 640,Unsafe,turbidity too high
+Sensor 641 at Lake 641,Unsafe,turbidity too high
+Sensor 642 at Lake 642,Unsafe,turbidity too high
+Sensor 643 at Lake 643,Safe,
+Sensor 644 at Lake 644,Unsafe,turbidity too high
+Sensor 645 at Lake 645,Unsafe,turbidity too high
+Sensor 646 at Lake 646,Unsafe,turbidity too high
+Sensor 647 at Lake 647,Unsafe,"pH too low, turbidity too high"
+Sensor 648 at Lake 648,Unsafe,turbidity too high
+Sensor 649 at Lake 649,Unsafe,turbidity too high
+Sensor 650 at Lake 650,Unsafe,turbidity too high
+Sensor 651 at Lake 651,Unsafe,turbidity too high
+Sensor 652 at Lake 652,Unsafe,turbidity too high
+Sensor 653 at Lake 653,Unsafe,turbidity too high
+Sensor 654 at Lake 654,Unsafe,turbidity too high
+Sensor 655 at Lake 655,Safe,
+Sensor 656 at Lake 656,Unsafe,turbidity too high
+Sensor 657 at Lake 657,Unsafe,turbidity too high
+Sensor 658 at Lake 658,Unsafe,turbidity too high
+Sensor 659 at Lake 659,Unsafe,turbidity too high
+Sensor 660 at Lake 660,Unsafe,turbidity too high
+Sensor 661 at Lake 661,Unsafe,turbidity too high
+Sensor 662 at Lake 662,Unsafe,turbidity too high
+Sensor 663 at Lake 663,Unsafe,turbidity too high
+Sensor 664 at Lake 664,Unsafe,turbidity too high
+Sensor 665 at Lake 665,Unsafe,turbidity too high
+Sensor 666 at Lake 666,Unsafe,turbidity too high
+Sensor 667 at Lake 667,Unsafe,turbidity too high
+Sensor 668 at Lake 668,Unsafe,turbidity too high
+Sensor 669 at Lake 669,Unsafe,"pH too low, turbidity too high"
+Sensor 670 at Lake 670,Unsafe,turbidity too high
+Sensor 671 at Lake 671,Unsafe,turbidity too high
+Sensor 672 at Lake 672,Unsafe,turbidity too high
+Sensor 673 at Lake 673,Unsafe,turbidity too high
+Sensor 674 at Lake 674,Unsafe,turbidity too high
+Sensor 675 at Lake 675,Unsafe,"pH too low, turbidity too high"
+Sensor 676 at Lake 676,Unsafe,turbidity too high
+Sensor 677 at Lake 677,Unsafe,turbidity too high
+Sensor 678 at Lake 678,Unsafe,turbidity too high
+Sensor 679 at Lake 679,Unsafe,turbidity too high
+Sensor 680 at Lake 680,Unsafe,turbidity too high
+Sensor 681 at Lake 681,Unsafe,turbidity too high
+Sensor 682 at Lake 682,Unsafe,turbidity too high
+Sensor 683 at Lake 683,Unsafe,turbidity too high
+Sensor 684 at Lake 684,Unsafe,turbidity too high
+Sensor 685 at Lake 685,Unsafe,turbidity too high
+Sensor 686 at Lake 686,Safe,
+Sensor 687 at Lake 687,Unsafe,turbidity too high
+Sensor 688 at Lake 688,Unsafe,turbidity too high
+Sensor 689 at Lake 689,Unsafe,turbidity too high
+Sensor 690 at Lake 690,Unsafe,turbidity too high
+Sensor 691 at Lake 691,Unsafe,turbidity too high
+Sensor 692 at Lake 692,Unsafe,turbidity too high
+Sensor 693 at Lake 693,Unsafe,turbidity too high
+Sensor 694 at Lake 694,Unsafe,turbidity too high
+Sensor 695 at Lake 695,Unsafe,turbidity too high
+Sensor 696 at Lake 696,Unsafe,turbidity too high
+Sensor 697 at Lake 697,Unsafe,turbidity too high
+Sensor 698 at Lake 698,Unsafe,turbidity too high
+Sensor 699 at Lake 699,Unsafe,"pH too low, turbidity too high"
+Sensor 700 at Lake 700,Unsafe,turbidity too high
+Sensor 701 at Lake 701,Unsafe,turbidity too high
+Sensor 702 at Lake 702,Safe,
+Sensor 703 at Lake 703,Unsafe,turbidity too high
+Sensor 704 at Lake 704,Unsafe,turbidity too high
+Sensor 705 at Lake 705,Unsafe,turbidity too high
+Sensor 706 at Lake 706,Unsafe,turbidity too high
+Sensor 707 at Lake 707,Unsafe,turbidity too high
+Sensor 708 at Lake 708,Unsafe,turbidity too high
+Sensor 709 at Lake 709,Unsafe,turbidity too high
+Sensor 710 at Lake 710,Unsafe,turbidity too high
+Sensor 711 at Lake 711,Unsafe,"pH too low, turbidity too high"
+Sensor 712 at Lake 712,Unsafe,turbidity too high
+Sensor 713 at Lake 713,Unsafe,turbidity too high
+Sensor 714 at Lake 714,Unsafe,"pH too low, turbidity too high"
+Sensor 715 at Lake 715,Unsafe,turbidity too high
+Sensor 716 at Lake 716,Unsafe,"pH too low, turbidity too high"
+Sensor 717 at Lake 717,Unsafe,turbidity too high
+Sensor 718 at Lake 718,Unsafe,turbidity too high
+Sensor 719 at Lake 719,Unsafe,turbidity too high
+Sensor 720 at Lake 720,Unsafe,turbidity too high
+Sensor 721 at Lake 721,Unsafe,turbidity too high
+Sensor 722 at Lake 722,Unsafe,turbidity too high
+Sensor 723 at Lake 723,Unsafe,turbidity too high
+Sensor 724 at Lake 724,Unsafe,turbidity too high
+Sensor 725 at Lake 725,Unsafe,turbidity too high
+Sensor 726 at Lake 726,Unsafe,turbidity too high
+Sensor 727 at Lake 727,Unsafe,turbidity too high
+Sensor 728 at Lake 728,Unsafe,turbidity too high
+Sensor 729 at Lake 729,Unsafe,turbidity too high
+Sensor 730 at Lake 730,Unsafe,turbidity too high
+Sensor 731 at Lake 731,Unsafe,"pH too low, turbidity too high"
+Sensor 732 at Lake 732,Unsafe,turbidity too high
+Sensor 733 at Lake 733,Unsafe,turbidity too high
+Sensor 734 at Lake 734,Unsafe,turbidity too high
+Sensor 735 at Lake 735,Unsafe,turbidity too high
+Sensor 736 at Lake 736,Unsafe,turbidity too high
+Sensor 737 at Lake 737,Unsafe,turbidity too high
+Sensor 738 at Lake 738,Unsafe,turbidity too high
+Sensor 739 at Lake 739,Unsafe,turbidity too high
+Sensor 740 at Lake 740,Unsafe,"pH too low, turbidity too high"
+Sensor 741 at Lake 741,Unsafe,turbidity too high
+Sensor 742 at Lake 742,Unsafe,turbidity too high
+Sensor 743 at Lake 743,Unsafe,turbidity too high
+Sensor 744 at Lake 744,Unsafe,turbidity too high
+Sensor 745 at Lake 745,Unsafe,turbidity too high
+Sensor 746 at Lake 746,Unsafe,turbidity too high
+Sensor 747 at Lake 747,Unsafe,"pH too low, turbidity too high"
+Sensor 748 at Lake 748,Unsafe,turbidity too high
+Sensor 749 at Lake 749,Unsafe,turbidity too high
+Sensor 750 at Lake 750,Unsafe,turbidity too high
+Sensor 751 at Lake 751,Unsafe,"pH too low, turbidity too high"
+Sensor 752 at Lake 752,Unsafe,turbidity too high
+Sensor 753 at Lake 753,Unsafe,turbidity too high
+Sensor 754 at Lake 754,Unsafe,"pH too low, turbidity too high"
+Sensor 755 at Lake 755,Unsafe,turbidity too high
+Sensor 756 at Lake 756,Unsafe,turbidity too high
+Sensor 757 at Lake 757,Unsafe,turbidity too high
+Sensor 758 at Lake 758,Unsafe,turbidity too high
+Sensor 759 at Lake 759,Unsafe,turbidity too high
+Sensor 760 at Lake 760,Unsafe,turbidity too high
+Sensor 761 at Lake 761,Unsafe,turbidity too high
+Sensor 762 at Lake 762,Unsafe,turbidity too high
+Sensor 763 at Lake 763,Unsafe,turbidity too high
+Sensor 764 at Lake 764,Unsafe,turbidity too high
+Sensor 765 at Lake 765,Unsafe,turbidity too high
+Sensor 766 at Lake 766,Unsafe,"pH too low, turbidity too high"
+Sensor 767 at Lake 767,Unsafe,"pH too low, turbidity too high"
+Sensor 768 at Lake 768,Unsafe,turbidity too high
+Sensor 769 at Lake 769,Unsafe,turbidity too high
+Sensor 770 at Lake 770,Unsafe,turbidity too high
+Sensor 771 at Lake 771,Unsafe,turbidity too high
+Sensor 772 at Lake 772,Unsafe,turbidity too high
+Sensor 773 at Lake 773,Unsafe,turbidity too high
+Sensor 774 at Lake 774,Unsafe,turbidity too high
+Sensor 775 at Lake 775,Unsafe,turbidity too high
+Sensor 776 at Lake 776,Unsafe,turbidity too high
+Sensor 777 at Lake 777,Unsafe,turbidity too high
+Sensor 778 at Lake 778,Unsafe,turbidity too high
+Sensor 779 at Lake 779,Unsafe,turbidity too high
+Sensor 780 at Lake 780,Unsafe,turbidity too high
+Sensor 781 at Lake 781,Unsafe,turbidity too high
+Sensor 782 at Lake 782,Unsafe,turbidity too high
+Sensor 783 at Lake 783,Unsafe,turbidity too high
+Sensor 784 at Lake 784,Unsafe,"pH too low, turbidity too high"
+Sensor 785 at Lake 785,Unsafe,"pH too low, turbidity too high"
+Sensor 786 at Lake 786,Unsafe,turbidity too high
+Sensor 787 at Lake 787,Unsafe,"pH too low, turbidity too high"
+Sensor 788 at Lake 788,Unsafe,turbidity too high
+Sensor 789 at Lake 789,Unsafe,pH too low
+Sensor 790 at Lake 790,Unsafe,turbidity too high
+Sensor 791 at Lake 791,Unsafe,turbidity too high
+Sensor 792 at Lake 792,Unsafe,turbidity too high
+Sensor 793 at Lake 793,Unsafe,turbidity too high
+Sensor 794 at Lake 794,Safe,
+Sensor 795 at Lake 795,Unsafe,turbidity too high
+Sensor 796 at Lake 796,Unsafe,turbidity too high
+Sensor 797 at Lake 797,Unsafe,turbidity too high
+Sensor 798 at Lake 798,Unsafe,turbidity too high
+Sensor 799 at Lake 799,Unsafe,turbidity too high
+Sensor 800 at Lake 800,Unsafe,turbidity too high
+Sensor 801 at Lake 801,Unsafe,turbidity too high
+Sensor 802 at Lake 802,Unsafe,"pH too low, turbidity too high"
+Sensor 803 at Lake 803,Unsafe,turbidity too high
+Sensor 804 at Lake 804,Unsafe,turbidity too high
+Sensor 805 at Lake 805,Safe,
+Sensor 806 at Lake 806,Unsafe,turbidity too high
+Sensor 807 at Lake 807,Unsafe,turbidity too high
+Sensor 808 at Lake 808,Safe,
+Sensor 809 at Lake 809,Unsafe,turbidity too high
+Sensor 810 at Lake 810,Safe,
+Sensor 811 at Lake 811,Unsafe,turbidity too high
+Sensor 812 at Lake 812,Unsafe,turbidity too high
+Sensor 813 at Lake 813,Unsafe,turbidity too high
+Sensor 814 at Lake 814,Unsafe,"pH too low, turbidity too high"
+Sensor 815 at Lake 815,Unsafe,"pH too low, turbidity too high"
+Sensor 816 at Lake 816,Unsafe,turbidity too high
+Sensor 817 at Lake 817,Unsafe,turbidity too high
+Sensor 818 at Lake 818,Unsafe,turbidity too high
+Sensor 819 at Lake 819,Unsafe,turbidity too high
+Sensor 820 at Lake 820,Unsafe,"pH too low, turbidity too high"
+Sensor 821 at Lake 821,Unsafe,turbidity too high
+Sensor 822 at Lake 822,Unsafe,turbidity too high
+Sensor 823 at Lake 823,Unsafe,turbidity too high
+Sensor 824 at Lake 824,Unsafe,turbidity too high
+Sensor 825 at Lake 825,Unsafe,turbidity too high
+Sensor 826 at Lake 826,Unsafe,turbidity too high
+Sensor 827 at Lake 827,Unsafe,turbidity too high
+Sensor 828 at Lake 828,Unsafe,turbidity too high
+Sensor 829 at Lake 829,Unsafe,turbidity too high
+Sensor 830 at Lake 830,Safe,
+Sensor 831 at Lake 831,Unsafe,turbidity too high
+Sensor 832 at Lake 832,Unsafe,turbidity too high
+Sensor 833 at Lake 833,Unsafe,turbidity too high
+Sensor 834 at Lake 834,Unsafe,turbidity too high
+Sensor 835 at Lake 835,Unsafe,turbidity too high
+Sensor 836 at Lake 836,Unsafe,turbidity too high
+Sensor 837 at Lake 837,Unsafe,turbidity too high
+Sensor 838 at Lake 838,Unsafe,turbidity too high
+Sensor 839 at Lake 839,Unsafe,turbidity too high
+Sensor 840 at Lake 840,Unsafe,turbidity too high
+Sensor 841 at Lake 841,Unsafe,turbidity too high
+Sensor 842 at Lake 842,Unsafe,turbidity too high
+Sensor 843 at Lake 843,Unsafe,turbidity too high
+Sensor 844 at Lake 844,Unsafe,turbidity too high
+Sensor 845 at Lake 845,Unsafe,turbidity too high
+Sensor 846 at Lake 846,Unsafe,turbidity too high
+Sensor 847 at Lake 847,Unsafe,turbidity too high
+Sensor 848 at Lake 848,Unsafe,turbidity too high
+Sensor 849 at Lake 849,Unsafe,turbidity too high
+Sensor 850 at Lake 850,Unsafe,turbidity too high
+Sensor 851 at Lake 851,Unsafe,turbidity too high
+Sensor 852 at Lake 852,Unsafe,turbidity too high
+Sensor 853 at Lake 853,Unsafe,turbidity too high
+Sensor 854 at Lake 854,Unsafe,turbidity too high
+Sensor 855 at Lake 855,Unsafe,turbidity too high
+Sensor 856 at Lake 856,Unsafe,turbidity too high
+Sensor 857 at Lake 857,Unsafe,turbidity too high
+Sensor 858 at Lake 858,Unsafe,"pH too low, turbidity too high"
+Sensor 859 at Lake 859,Safe,
+Sensor 860 at Lake 860,Unsafe,"pH too low, turbidity too high"
+Sensor 861 at Lake 861,Unsafe,turbidity too high
+Sensor 862 at Lake 862,Unsafe,turbidity too high
+Sensor 863 at Lake 863,Unsafe,turbidity too high
+Sensor 864 at Lake 864,Unsafe,turbidity too high
+Sensor 865 at Lake 865,Unsafe,turbidity too high
+Sensor 866 at Lake 866,Unsafe,turbidity too high
+Sensor 867 at Lake 867,Unsafe,turbidity too high
+Sensor 868 at Lake 868,Unsafe,turbidity too high
+Sensor 869 at Lake 869,Unsafe,"pH too low, turbidity too high"
+Sensor 870 at Lake 870,Unsafe,turbidity too high
+Sensor 871 at Lake 871,Unsafe,"pH too low, turbidity too high"
+Sensor 872 at Lake 872,Unsafe,turbidity too high
+Sensor 873 at Lake 873,Unsafe,turbidity too high
+Sensor 874 at Lake 874,Unsafe,turbidity too high
+Sensor 875 at Lake 875,Unsafe,turbidity too high
+Sensor 876 at Lake 876,Safe,
+Sensor 877 at Lake 877,Unsafe,turbidity too high
+Sensor 878 at Lake 878,Unsafe,turbidity too high
+Sensor 879 at Lake 879,Unsafe,turbidity too high
+Sensor 880 at Lake 880,Unsafe,turbidity too high
+Sensor 881 at Lake 881,Unsafe,turbidity too high
+Sensor 882 at Lake 882,Unsafe,turbidity too high
+Sensor 883 at Lake 883,Unsafe,turbidity too high
+Sensor 884 at Lake 884,Unsafe,turbidity too high
+Sensor 885 at Lake 885,Unsafe,turbidity too high
+Sensor 886 at Lake 886,Unsafe,turbidity too high
+Sensor 887 at Lake 887,Unsafe,turbidity too high
+Sensor 888 at Lake 888,Unsafe,turbidity too high
+Sensor 889 at Lake 889,Unsafe,turbidity too high
+Sensor 890 at Lake 890,Unsafe,turbidity too high
+Sensor 891 at Lake 891,Unsafe,turbidity too high
+Sensor 892 at Lake 892,Unsafe,turbidity too high
+Sensor 893 at Lake 893,Unsafe,"pH too low, turbidity too high"
+Sensor 894 at Lake 894,Unsafe,turbidity too high
+Sensor 895 at Lake 895,Unsafe,turbidity too high
+Sensor 896 at Lake 896,Unsafe,turbidity too high
+Sensor 897 at Lake 897,Unsafe,turbidity too high
+Sensor 898 at Lake 898,Unsafe,turbidity too high
+Sensor 899 at Lake 899,Unsafe,turbidity too high
+Sensor 900 at Lake 900,Unsafe,turbidity too high
+Sensor 901 at Lake 901,Unsafe,"pH too low, turbidity too high"
+Sensor 902 at Lake 902,Safe,
+Sensor 903 at Lake 903,Unsafe,turbidity too high
+Sensor 904 at Lake 904,Unsafe,turbidity too high
+Sensor 905 at Lake 905,Unsafe,turbidity too high
+Sensor 906 at Lake 906,Unsafe,turbidity too high
+Sensor 907 at Lake 907,Unsafe,turbidity too high
+Sensor 908 at Lake 908,Unsafe,turbidity too high
+Sensor 909 at Lake 909,Unsafe,turbidity too high
+Sensor 910 at Lake 910,Unsafe,turbidity too high
+Sensor 911 at Lake 911,Unsafe,turbidity too high
+Sensor 912 at Lake 912,Unsafe,turbidity too high
+Sensor 913 at Lake 913,Unsafe,turbidity too high
+Sensor 914 at Lake 914,Unsafe,turbidity too high
+Sensor 915 at Lake 915,Unsafe,turbidity too high
+Sensor 916 at Lake 916,Unsafe,turbidity too high
+Sensor 917 at Lake 917,Unsafe,"pH too low, turbidity too high"
+Sensor 918 at Lake 918,Unsafe,turbidity too high
+Sensor 919 at Lake 919,Unsafe,"pH too low, turbidity too high"
+Sensor 920 at Lake 920,Unsafe,turbidity too high
+Sensor 921 at Lake 921,Unsafe,turbidity too high
+Sensor 922 at Lake 922,Unsafe,turbidity too high
+Sensor 923 at Lake 923,Unsafe,"pH too low, turbidity too high"
+Sensor 924 at Lake 924,Unsafe,turbidity too high
+Sensor 925 at Lake 925,Unsafe,"pH too low, turbidity too high"
+Sensor 926 at Lake 926,Unsafe,turbidity too high
+Sensor 927 at Lake 927,Unsafe,turbidity too high
+Sensor 928 at Lake 928,Unsafe,turbidity too high
+Sensor 929 at Lake 929,Unsafe,turbidity too high
+Sensor 930 at Lake 930,Unsafe,turbidity too high
+Sensor 931 at Lake 931,Unsafe,turbidity too high
+Sensor 932 at Lake 932,Unsafe,turbidity too high
+Sensor 933 at Lake 933,Unsafe,turbidity too high
+Sensor 934 at Lake 934,Unsafe,turbidity too high
+Sensor 935 at Lake 935,Unsafe,turbidity too high
+Sensor 936 at Lake 936,Unsafe,turbidity too high
+Sensor 937 at Lake 937,Unsafe,turbidity too high
+Sensor 938 at Lake 938,Unsafe,turbidity too high
+Sensor 939 at Lake 939,Unsafe,turbidity too high
+Sensor 940 at Lake 940,Unsafe,"pH too low, turbidity too high"
+Sensor 941 at Lake 941,Unsafe,turbidity too high
+Sensor 942 at Lake 942,Unsafe,turbidity too high
+Sensor 943 at Lake 943,Unsafe,"pH too low, turbidity too high"
+Sensor 944 at Lake 944,Unsafe,turbidity too high
+Sensor 945 at Lake 945,Unsafe,turbidity too high
+Sensor 946 at Lake 946,Unsafe,turbidity too high
+Sensor 947 at Lake 947,Unsafe,turbidity too high
+Sensor 948 at Lake 948,Safe,
+Sensor 949 at Lake 949,Unsafe,turbidity too high
+Sensor 950 at Lake 950,Unsafe,turbidity too high
+Sensor 951 at Lake 951,Unsafe,turbidity too high
+Sensor 952 at Lake 952,Unsafe,turbidity too high
+Sensor 953 at Lake 953,Unsafe,turbidity too high
+Sensor 954 at Lake 954,Unsafe,turbidity too high
+Sensor 955 at Lake 955,Unsafe,turbidity too high
+Sensor 956 at Lake 956,Unsafe,turbidity too high
+Sensor 957 at Lake 957,Unsafe,turbidity too high
+Sensor 958 at Lake 958,Unsafe,turbidity too high
+Sensor 959 at Lake 959,Unsafe,turbidity too high
+Sensor 960 at Lake 960,Unsafe,"pH too low, turbidity too high"
+Sensor 961 at Lake 961,Unsafe,"pH too low, turbidity too high"
+Sensor 962 at Lake 962,Unsafe,"pH too low, turbidity too high"
+Sensor 963 at Lake 963,Unsafe,turbidity too high
+Sensor 964 at Lake 964,Unsafe,turbidity too high
+Sensor 965 at Lake 965,Unsafe,turbidity too high
+Sensor 966 at Lake 966,Unsafe,turbidity too high
+Sensor 967 at Lake 967,Unsafe,"pH too low, turbidity too high"
+Sensor 968 at Lake 968,Unsafe,turbidity too high
+Sensor 969 at Lake 969,Unsafe,turbidity too high
+Sensor 970 at Lake 970,Unsafe,turbidity too high
+Sensor 971 at Lake 971,Unsafe,turbidity too high
+Sensor 972 at Lake 972,Unsafe,turbidity too high
+Sensor 973 at Lake 973,Unsafe,turbidity too high
+Sensor 974 at Lake 974,Unsafe,turbidity too high
+Sensor 975 at Lake 975,Unsafe,turbidity too high
+Sensor 976 at Lake 976,Unsafe,turbidity too high
+Sensor 977 at Lake 977,Unsafe,"pH too low, turbidity too high"
+Sensor 978 at Lake 978,Unsafe,turbidity too high
+Sensor 979 at Lake 979,Unsafe,turbidity too high
+Sensor 980 at Lake 980,Unsafe,turbidity too high
+Sensor 981 at Lake 981,Unsafe,turbidity too high
+Sensor 982 at Lake 982,Unsafe,turbidity too high
+Sensor 983 at Lake 983,Unsafe,turbidity too high
+Sensor 984 at Lake 984,Unsafe,turbidity too high
+Sensor 985 at Lake 985,Unsafe,turbidity too high
+Sensor 986 at Lake 986,Unsafe,turbidity too high
+Sensor 987 at Lake 987,Unsafe,turbidity too high
+Sensor 988 at Lake 988,Unsafe,turbidity too high
+Sensor 989 at Lake 989,Unsafe,turbidity too high
+Sensor 990 at Lake 990,Unsafe,"pH too low, turbidity too high"
+Sensor 991 at Lake 991,Unsafe,turbidity too high
+Sensor 992 at Lake 992,Unsafe,"pH too low, turbidity too high"
+Sensor 993 at Lake 993,Unsafe,turbidity too high
+Sensor 994 at Lake 994,Unsafe,turbidity too high
+Sensor 995 at Lake 995,Unsafe,turbidity too high
+Sensor 996 at Lake 996,Unsafe,turbidity too high
+Sensor 997 at Lake 997,Unsafe,turbidity too high
+Sensor 998 at Lake 998,Unsafe,turbidity too high
+Sensor 999 at Lake 999,Unsafe,turbidity too high
+Sensor 1000 at Lake 1000,Unsafe,turbidity too high
